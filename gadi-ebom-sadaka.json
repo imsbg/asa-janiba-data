@@ -1,0 +1,456 @@
+[
+  {
+    "version": 1,
+    "name": "Helmet",
+    "category": "ସୁରକ୍ଷା ଉପକରଣ",
+    "description": "protective headgear worn while riding two-wheelers",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/gadi-ebom-sadaka/helmet.jpg",
+    "odiaName": "ଶିରସ୍ତ୍ରାଣ",
+    "descriptionOdia": "ଦୁଇଚକିଆ ଯାନ ଚଳାଇବା ସମୟରେ ମୁଣ୍ଡର ସୁରକ୍ଷା ପାଇଁ ପିନ୍ଧାଯାଉଥିବା କବଚ",
+    "details": {
+      "ବ୍ୟବହାର": "ଦୁଇଚକିଆ ଯାନ ଚାଳକ ଓ ଆରୋହୀଙ୍କ ମୁଣ୍ଡର ସୁରକ୍ଷା",
+      "ପ୍ରକାରଭେଦ": "ଫୁଲ୍-ଫେସ୍, ହାଫ୍-ଫେସ୍, ଓପନ୍-ଫେସ୍",
+      "ଉପାଦାନ": "ଶକ୍ତ ପ୍ଲାଷ୍ଟିକ୍ (ABS), ଫାଇବର ଗ୍ଲାସ୍ ଓ ଫୋମ୍",
+      "ଗୁରୁତ୍ୱ": "ଦୁର୍ଘଟଣା ସମୟରେ ମସ୍ତିଷ୍କରେ ଗଭୀର ଆଘାତ ଲାଗିବାରୁ ରକ୍ଷା କରେ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଓଡ଼ିଆରେ 'ଶିର' (ମୁଣ୍ଡ) + 'ତ୍ରାଣ' (ରକ୍ଷା) ମିଶି ଶିରସ୍ତ୍ରାଣ ଶବ୍ଦ ଗଠିତ ହୋଇଛି ।",
+        "ସଡ଼କ ସୁରକ୍ଷା ନିୟମ ଅନୁଯାୟୀ ISI ମାର୍କ ଥିବା ହେଲମେଟ୍ ପିନ୍ଧିବା ବାଧ୍ୟତାମୂଳକ ।"
+      ]
+    }
+  },
+  {
+    "name": "Seatbelt",
+    "category": "ସୁରକ୍ଷା ଉପକରଣ",
+    "description": "safety strap securing vehicle occupants against sudden stops or collisions",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/gadi-ebom-sadaka/seatbelt.jpg",
+    "odiaName": "ଆସନ ପଟି / ସୁରକ୍ଷା ପଟି",
+    "descriptionOdia": "ହଠାତ୍ ବ୍ରେକ୍ ବା ଦୁର୍ଘଟଣା ସମୟରେ ଯାତ୍ରୀଙ୍କୁ ସିଟରେ ସୁରକ୍ଷିତ ରଖୁଥିବା ପଟି",
+    "details": {
+      "ବ୍ୟବହାର": "କାର୍ ଓ ଅନ୍ୟାନ୍ୟ ଚାରିଚକିଆ ଯାନର ଯାତ୍ରୀଙ୍କ ସୁରକ୍ଷା",
+      "ଉପାଦାନ": "ମଜବୁତ ପଲିଏଷ୍ଟର ୱେବିଂ ପଟି",
+      "ଗୁରୁତ୍ୱ": "ଦୁର୍ଘଟଣା ସମୟରେ ଯାତ୍ରୀଙ୍କୁ ଆଗକୁ ଛିଟିକି ପଡ଼ିବାରୁ ରୋକିଥାଏ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ସିଟ୍ ବେଲ୍ଟ ପିନ୍ଧିବା ଦ୍ୱାରା ଦୁର୍ଘଟଣାରେ ମୃତ୍ୟୁ ଆଶଙ୍କା ପ୍ରାୟ ୫୦% କମିଯାଏ ।",
+        "ଆଗ ସିଟ୍ ସହିତ ପଛ ସିଟ୍ ଯାତ୍ରୀଙ୍କ ପାଇଁ ମଧ୍ୟ ଏହା ପିନ୍ଧିବା ନିୟମ ରହିଛି ।"
+      ]
+    }
+  },
+  {
+    "name": "Airbag",
+    "category": "ସୁରକ୍ଷା ଉପକରଣ",
+    "description": "inflatable cushion designed to protect occupants during a crash",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/gadi-ebom-sadaka/airbag.jpg",
+    "odiaName": "ବାୟୁ ଥଳି / ସୁରକ୍ଷା ବାୟୁଥଳି",
+    "descriptionOdia": "ଦୁର୍ଘଟଣା ସମୟରେ ଆଘାତରୁ ରକ୍ଷା କରିବା ପାଇଁ ତୁରନ୍ତ ଫୁଲିଉଠୁଥିବା ସୁରକ୍ଷା ଥଳି",
+    "details": {
+      "ବ୍ୟବହାର": "କାର୍ ଓ ଆଧୁନିକ ଯାନବାହନର ଷ୍ଟିଅରିଂ ଏବଂ ଡ୍ୟାସବୋର୍ଡରେ",
+      "ଉପାଦାନ": "ନାଇଲନ୍ କପଡ଼ା ଓ ରାସାୟନିକ ଗ୍ୟାସ୍ ଜେନେରେଟର",
+      "ଗୁରୁତ୍ୱ": "ଧକ୍କା ହେବା ମାତ୍ରେ ମୁଣ୍ଡ ଓ ଛାତିକୁ କଠିନ ଅଂଶରେ ବାଜିବାରୁ ରକ୍ଷା କରେ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଦୁର୍ଘଟଣା ଘଟିବାର ମାତ୍ର କିଛି ମିଲିସେକେଣ୍ଡ ମଧ୍ୟରେ ଏହା ଫୁଲିଯାଏ ।",
+        "ସିଟ୍ ବେଲ୍ଟ ପିନ୍ଧିଥିଲେ ହିଁ ଏୟାରବ୍ୟାଗ୍ ସବୁଠାରୁ ଭଲ ଭାବରେ କାମ କରେ ।"
+      ]
+    }
+  },
+  {
+    "name": "First Aid Kit",
+    "category": "ସୁରକ୍ଷା ଉପକରଣ",
+    "description": "collection of medical supplies for immediate emergency treatment",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/gadi-ebom-sadaka/first-aid-kit.jpg",
+    "odiaName": "ପ୍ରାଥମିକ ଚିକିତ୍ସା ବାକ୍ସ",
+    "descriptionOdia": "ଦୁର୍ଘଟଣା ବା ସାମାନ୍ୟ ଆଘାତ ସମୟରେ ତୁରନ୍ତ ଚିକିତ୍ସା ପାଇଁ ଆବଶ୍ୟକୀୟ ଔଷଧ ବାକ୍ସ",
+    "details": {
+      "ବ୍ୟବହାର": "ପ୍ରତ୍ୟେକ ଗାଡ଼ିରେ ଜରୁରୀକାଳୀନ ପ୍ରାଥମିକ ଚିକିତ୍ସା ପାଇଁ",
+      "ଉପାଦାନ": "ବ୍ୟାଣ୍ଡେଜ୍, ତୁଳା, ଆଣ୍ଟିସେପ୍ଟିକ୍ ଲୋସନ୍, କଇଁଚି ଓ ଜରୁରୀ ଔଷଧ",
+      "ଗୁରୁତ୍ୱ": "ଡାକ୍ତରଖାନା ପହଞ୍ଚିବା ପୂର୍ବରୁ ରକ୍ତସ୍ରାବ ବନ୍ଦ କରିବା ଓ ସଂକ୍ରମଣ ରୋକିବାରେ ସାହାଯ୍ୟ କରେ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ମୋଟର ଯାନ ନିୟମ ଅନୁଯାୟୀ ପ୍ରତ୍ୟେକ ଯାତ୍ରୀବାହୀ ଗାଡ଼ିରେ ଏହା ରଖିବା ବାଧ୍ୟତାମୂଳକ ।",
+        "ଏଥିରେ ଥିବା ଔଷଧଗୁଡ଼ିକର ଅବଧି (Expiry date) ନିୟମିତ ଯାଞ୍ଚ କରିବା ଉଚିତ ।"
+      ]
+    }
+  },
+  {
+    "name": "Wheel / Tyre",
+    "category": "ଗାଡ଼ିର ମୁଖ୍ୟ ଅଂଶ",
+    "description": "circular rubber-covered component enabling vehicle movement",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/gadi-ebom-sadaka/wheel-tyre.jpg",
+    "odiaName": "ଚକ",
+    "descriptionOdia": "ଗାଡ଼ିକୁ ରାସ୍ତାରେ ଗତିଶୀଳ କରାଇବାରେ ସାହାଯ୍ୟ କରୁଥିବା ଗୋଲାକାର ଅଂଶ",
+    "details": {
+      "ବ୍ୟବହାର": "ସମସ୍ତ ସ୍ଥଳପଥ ଯାନବାହନରେ ଗତି ପାଇଁ",
+      "ପ୍ରକାରଭେଦ": "ଟ୍ୟୁବ୍ ଟାୟାର, ଟ୍ୟୁବଲେସ୍ ଟାୟାର",
+      "ଉପାଦାନ": "ରବର, ଷ୍ଟିଲ୍ ତାର ଓ ଆଲୟ ରିମ୍",
+      "ଗୁରୁତ୍ୱ": "ରାସ୍ତା ସହିତ ଘର୍ଷଣ ସୃଷ୍ଟି କରି ଗାଡ଼ିକୁ ସନ୍ତୁଳିତ ରଖେ ଓ ଆଗକୁ ବଢ଼ାଏ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଚକର ଉଦ୍ଭାବନ ମାନବ ଇତିହାସର ଅନ୍ୟତମ ଶ୍ରେଷ୍ଠ ଆବିଷ୍କାର ଅଟେ ।",
+        "ଟାୟାରରେ ସଠିକ୍ ବାୟୁ ଚାପ ରଖିବା ଦ୍ୱାରା ଇନ୍ଧନ ସଞ୍ଚୟ ହୁଏ ।"
+      ]
+    }
+  },
+  {
+    "name": "Steering",
+    "category": "ଗାଡ଼ିର ମୁଖ୍ୟ ଅଂଶ",
+    "description": "control wheel used to direct the path of a vehicle",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/gadi-ebom-sadaka/steering.jpg",
+    "odiaName": "ଦିଗ ନିୟନ୍ତ୍ରକ ଚକ",
+    "descriptionOdia": "ଗାଡ଼ିକୁ ଡାହାଣ ବା ବାମ ଦିଗକୁ ମୋଡ଼ିବା ପାଇଁ ବ୍ୟବହୃତ ନିୟନ୍ତ୍ରଣ ଚକ",
+    "details": {
+      "ବ୍ୟବହାର": "ଚାରିଚକିଆ ଓ ଭାରୀ ଯାନର ଦିଗ ପରିବର୍ତ୍ତନ ପାଇଁ",
+      "ପ୍ରକାରଭେଦ": "ମାନୁଆଲ୍ ଷ୍ଟିଅରିଂ, ପାୱାର ଷ୍ଟିଅରିଂ",
+      "ଗୁରୁତ୍ୱ": "ଚାଳକଙ୍କ ନିର୍ଦ୍ଦେଶ ଅନୁଯାୟୀ ଗାଡ଼ିର ଆଗ ଚକଗୁଡ଼ିକୁ ବୁଲାଇଥାଏ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଭାରତରେ ଗାଡ଼ିଗୁଡ଼ିକର ଷ୍ଟିଅରିଂ ଡାହାଣ ପାର୍ଶ୍ୱରେ ରହିଥାଏ ।",
+        "ଆଧୁନିକ ଷ୍ଟିଅରିଂ ଚକରେ ହର୍ଣ୍ଣ, ଏୟାରବ୍ୟାଗ୍ ଓ ମ୍ୟୁଜିକ୍ ନିୟନ୍ତ୍ରଣ ବଟନ୍ ମଧ୍ୟ ରହେ ।"
+      ]
+    }
+  },
+  {
+    "name": "Brake",
+    "category": "ଗାଡ଼ିର ମୁଖ୍ୟ ଅଂଶ",
+    "description": "mechanical device that slows or stops a moving vehicle",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/gadi-ebom-sadaka/brake.jpg",
+    "odiaName": "ଗତିରୋଧକ / ଅବରୋଧକ",
+    "descriptionOdia": "ଚଳନ୍ତା ଗାଡ଼ିର ବେଗ କମାଇବା ବା ସମ୍ପୂର୍ଣ୍ଣ ଅଟକାଇବା ପାଇଁ ବ୍ୟବହୃତ ଯନ୍ତ୍ରାଂଶ",
+    "details": {
+      "ବ୍ୟବହାର": "ଗାଡ଼ିର ବେଗ ନିୟନ୍ତ୍ରଣ କରିବା ଓ ଅଟକାଇବା ପାଇଁ",
+      "ପ୍ରକାରଭେଦ": "ଡ୍ରମ୍ ବ୍ରେକ୍, ଡିସ୍କ ବ୍ରେକ୍, ଏବିଏସ୍ (ABS)",
+      "ଗୁରୁତ୍ୱ": "ଦୁର୍ଘଟଣା ଏଡ଼ାଇବା ଓ ସୁରକ୍ଷିତ ଭାବରେ ଗାଡ଼ି ଅଟକାଇବା ପାଇଁ ଏହା ଅତ୍ୟନ୍ତ ଜରୁରୀ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଘର୍ଷଣ ଶକ୍ତି ମାଧ୍ୟମରେ ବ୍ରେକ୍ ଗତିଶୀଳ ଚକକୁ ଅଟକାଇଥାଏ ।",
+        "ଆଧୁନିକ ଗାଡ଼ିରେ ଚକ ଖସିବାରୁ ରୋକିବା ପାଇଁ ABS (Anti-lock Braking System) ବ୍ୟବହାର ହୁଏ ।"
+      ]
+    }
+  },
+  {
+    "name": "Accelerator",
+    "category": "ଗାଡ଼ିର ମୁଖ୍ୟ ଅଂଶ",
+    "description": "pedal or throttle controlling fuel supply and vehicle speed",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/gadi-ebom-sadaka/accelerator.jpg",
+    "odiaName": "ତ୍ୱରକ / ବେଗବର୍ଦ୍ଧକ",
+    "descriptionOdia": "ଇଞ୍ଜିନକୁ ଇନ୍ଧନ ଯୋଗାଣ ବଢ଼ାଇ ଗାଡ଼ିର ବେଗ ବୃଦ୍ଧି କରୁଥିବା ଅଂଶ",
+    "details": {
+      "ବ୍ୟବହାର": "ଗାଡ଼ିର ବେଗ ବଢ଼ାଇବା ଓ କମାଇବା ପାଇଁ",
+      "ସ୍ଥାନ": "ବାଇକରେ ଡାହାଣ ହାତ ମୁଠାରେ ଓ କାରରେ ଡାହାଣ ପାଦ ତଳେ",
+      "ଗୁରୁତ୍ୱ": "ଇଞ୍ଜିନର ଶକ୍ତି ଓ ଗାଡ଼ିର ଗତିକୁ ନିୟନ୍ତ୍ରଣ କରେ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଏହାକୁ ଦବାଇଲେ ଇଞ୍ଜିନ ଭିତରକୁ ଅଧିକ ବାୟୁ ଓ ଇନ୍ଧନ ପ୍ରବେଶ କରେ ।",
+        "ସମାନ ଗତିରେ ଆକ୍ସିଲେରେଟର ବ୍ୟବହାର କଲେ ଗାଡ଼ି ଭଲ ମାଇଲେଜ୍ ଦେଇଥାଏ ।"
+      ]
+    }
+  },
+  {
+    "name": "Clutch",
+    "category": "ଗାଡ଼ିର ମୁଖ୍ୟ ଅଂଶ",
+    "description": "mechanism engaging and disengaging power transmission from engine to wheels",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/gadi-ebom-sadaka/clutch.jpg",
+    "odiaName": "ସଂଯୋଜକ / ଗତି ପରିବର୍ତ୍ତକ",
+    "descriptionOdia": "ଇଞ୍ଜିନ ଏବଂ ଚକ ମଧ୍ୟରେ ଶକ୍ତି ସଂଯୋଗ ଓ ବିଚ୍ଛିନ୍ନ କରୁଥିବା ଯନ୍ତ୍ରାଂଶ",
+    "details": {
+      "ବ୍ୟବହାର": "ଗିଅର୍ ବଦଳାଇବା ଓ ଗାଡ଼ିକୁ ଧୀରେ ଆଗକୁ ବଢ଼ାଇବା ପାଇଁ",
+      "ସ୍ଥାନ": "ବାଇକରେ ବାମ ହାତ ଲିଭର ଓ କାରରେ ବାମ ପାଦ ପେଡାଲ୍",
+      "ଗୁରୁତ୍ୱ": "ଇଞ୍ଜିନ ବନ୍ଦ ନକରି ଗାଡ଼ି ଅଟକାଇବା ଓ ଗିଅର୍ ପରିବର୍ତ୍ତନ କରିବାରେ ସାହାଯ୍ୟ କରେ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଅଟୋମେଟିକ୍ ଗାଡ଼ିଗୁଡ଼ିକରେ ଅଲଗା କ୍ଲଚ୍ ପେଡାଲ୍ ନଥାଏ ।",
+        "ଅଯଥାରେ ଅଧା କ୍ଲଚ୍ ଧରି ଗାଡ଼ି ଚଳାଇଲେ କ୍ଲଚ୍ ପ୍ଲେଟ୍ ଶୀଘ୍ର ଖରାପ ହୋଇଯାଏ ।"
+      ]
+    }
+  },
+  {
+    "name": "Gear",
+    "category": "ଗାଡ଼ିର ମୁଖ୍ୟ ଅଂଶ",
+    "description": "toothed mechanical parts transmitting torque and controlling speed",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/gadi-ebom-sadaka/gear.jpg",
+    "odiaName": "ଦାନ୍ତିଆ ଚକ / ବେଗ ନିୟନ୍ତ୍ରକ",
+    "descriptionOdia": "ଗାଡ଼ିର ଶକ୍ତି (ଟର୍କ) ଏବଂ ବେଗକୁ ସନ୍ତୁଳିତ କରୁଥିବା ଦାନ୍ତିଆ ଚକ ସମୂହ",
+    "details": {
+      "ବ୍ୟବହାର": "ବିଭିନ୍ନ ବେଗ ଓ ରାସ୍ତାର ଅବସ୍ଥା ଅନୁଯାୟୀ ଗାଡ଼ିର ଶକ୍ତି ନିୟନ୍ତ୍ରଣ",
+      "ପ୍ରକାରଭେଦ": "ମାନୁଆଲ୍ ଗିଅର୍, ଅଟୋମେଟିକ୍ ଗିଅର୍",
+      "ଗୁରୁତ୍ୱ": "କମ୍ ଗିଅରରେ ଅଧିକ ଶକ୍ତି (ଚଢ଼ାଣି ପାଇଁ) ଏବଂ ଅଧିକ ଗିଅରରେ ଅଧିକ ବେଗ ମିଳେ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଗାଡ଼ିକୁ ପଛକୁ ନେବା ପାଇଁ 'ରିଭର୍ସ ଗିଅର୍' ବ୍ୟବହାର କରାଯାଏ ।",
+        "ନ୍ୟୁଟ୍ରାଲ୍ (Neutral) ଅବସ୍ଥାରେ ଇଞ୍ଜିନ ଚାଲୁଥିଲେ ମଧ୍ୟ ଚକକୁ ଶକ୍ତି ଯାଏ ନାହିଁ ।"
+      ]
+    }
+  },
+  {
+    "name": "Engine",
+    "category": "ଗାଡ଼ିର ମୁଖ୍ୟ ଅଂଶ",
+    "description": "machine converting fuel or electrical energy into mechanical motion",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/gadi-ebom-sadaka/engine.jpg",
+    "odiaName": "ଯନ୍ତ୍ର / ଚାଳକ ଯନ୍ତ୍ର",
+    "descriptionOdia": "ଇନ୍ଧନ ବା ବିଦ୍ୟୁତ ଶକ୍ତିକୁ ଯାନ୍ତ୍ରିକ ଶକ୍ତିରେ ପରିଣତ କରି ଗାଡ଼ି ଚଳାଉଥିବା ମୁଖ୍ୟ ଯନ୍ତ୍ର",
+    "details": {
+      "ବ୍ୟବହାର": "ଗାଡ଼ି ଚଳାଇବା ପାଇଁ ଆବଶ୍ୟକୀୟ ଶକ୍ତି ଉତ୍ପାଦନ",
+      "ପ୍ରକାରଭେଦ": "ପେଟ୍ରୋଲ୍ ଇଞ୍ଜିନ, ଡିଜେଲ୍ ଇଞ୍ଜିନ, ବୈଦ୍ୟୁତିକ ମୋଟର",
+      "ଗୁରୁତ୍ୱ": "ଏହାକୁ ଗାଡ଼ିର ହୃଦପିଣ୍ଡ ବୋଲି କୁହାଯାଏ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଇଞ୍ଜିନର କ୍ଷମତାକୁ ସାଧାରଣତଃ CC (Cubic Capacity) ବା ହର୍ସପାୱାରରେ ମପାଯାଏ ।",
+        "ଇଞ୍ଜିନ ଅଏଲ୍ (ମୋବିଲ୍) ଯନ୍ତ୍ରାଂଶଗୁଡ଼ିକୁ ଥଣ୍ଡା ଓ ଘର୍ଷଣମୁକ୍ତ ରଖେ ।"
+      ]
+    }
+  },
+  {
+    "name": "Fuel Tank",
+    "category": "ଗାଡ଼ିର ମୁଖ୍ୟ ଅଂଶ",
+    "description": "safe container storing flammable fuel for the vehicle engine",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/gadi-ebom-sadaka/fuel-tank.jpg",
+    "odiaName": "ଇନ୍ଧନ ଟାଙ୍କି",
+    "descriptionOdia": "ଗାଡ଼ି ଚଳାଇବା ପାଇଁ ପେଟ୍ରୋଲ୍ ବା ଡିଜେଲ୍ ସଞ୍ଚିତ ରଖାଯାଉଥିବା ଆଧାର",
+    "details": {
+      "ବ୍ୟବହାର": "ଇନ୍ଧନ ସଂରକ୍ଷଣ ଓ ଇଞ୍ଜିନକୁ ଯୋଗାଣ",
+      "ଉପାଦାନ": "ଶକ୍ତ ଧାତୁ ବା ଉଚ୍ଚମାନର ପ୍ଲାଷ୍ଟିକ୍",
+      "ଗୁରୁତ୍ୱ": "ଇନ୍ଧନକୁ ସୁରକ୍ଷିତ ରଖେ ଓ ବାଷ୍ପୀଭବନରୁ ରକ୍ଷା କରେ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଇନ୍ଧନ ଟାଙ୍କିରେ ଇନ୍ଧନର ପରିମାଣ ଜାଣିବା ପାଇଁ 'ଫୁଏଲ୍ ଗଜ୍' ଲାଗିଥାଏ ।",
+        "ବିଦ୍ୟୁତ ଚାଳିତ ଗାଡ଼ିରେ ଇନ୍ଧନ ଟାଙ୍କି ବଦଳରେ ବ୍ୟାଟେରୀ ପ୍ୟାକ୍ ରହେ ।"
+      ]
+    }
+  },
+  {
+    "name": "Silencer / Exhaust",
+    "category": "ଗାଡ଼ିର ମୁଖ୍ୟ ଅଂଶ",
+    "description": "pipe system reducing engine noise and releasing exhaust gases",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/gadi-ebom-sadaka/silencer-exhaust.jpg",
+    "odiaName": "ଧୂଆଁ ନଳୀ / ଶବ୍ଦ ନିବାରକ ନଳୀ",
+    "descriptionOdia": "ଇଞ୍ଜିନରୁ ନିର୍ଗତ ଧୂଆଁକୁ ବାହାର କରିବା ସହ ଶବ୍ଦ କମାଉଥିବା ନଳୀ",
+    "details": {
+      "ବ୍ୟବହାର": "ବିଷାକ୍ତ ଧୂଆଁ ନିଷ୍କାସନ ଓ ଇଞ୍ଜିନ ଶବ୍ଦ ନିୟନ୍ତ୍ରଣ",
+      "ଉପାଦାନ": "ଷ୍ଟେନଲେସ୍ ଷ୍ଟିଲ୍ ବା ଆଲୁମିନାଇଜଡ୍ ଷ୍ଟିଲ୍",
+      "ଗୁରୁତ୍ୱ": "ବାୟୁ ପ୍ରଦୂଷଣ ଓ ଶବ୍ଦ ପ୍ରଦୂଷଣ କମାଇବାରେ ମୁଖ୍ୟ ଭୂମିକା ନିଭାଏ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଆଧୁନିକ ସାଇଲେନ୍ସରରେ 'କାଟାଲିଟିକ୍ କନଭର୍ଟର' ଥାଏ ଯାହା ବିଷାକ୍ତ ଗ୍ୟାସକୁ କମ୍ କ୍ଷତିକାରକ କରେ ।",
+        "ଅତ୍ୟଧିକ ଶବ୍ଦ କରୁଥିବା ମୋଡିଫାଏଡ୍ ସାଇଲେନ୍ସର ଲଗାଇବା ବେଆଇନ ଅଟେ ।"
+      ]
+    }
+  },
+  {
+    "name": "Mudguard",
+    "category": "ଗାଡ଼ିର ମୁଖ୍ୟ ଅଂଶ",
+    "description": "curved cover over a wheel preventing mud and water splash",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/gadi-ebom-sadaka/mudguard.jpg",
+    "odiaName": "କାଦୁଅ ରକ୍ଷକ",
+    "descriptionOdia": "ଚକ ଘୂରିବା ସମୟରେ ଛିଟିକି ଆସୁଥିବା କାଦୁଅ ଓ ପାଣିରୁ ରକ୍ଷା କରୁଥିବା ଆବରଣ",
+    "details": {
+      "ବ୍ୟବହାର": "ଗାଡ଼ି ଓ ଚାଳକଙ୍କୁ କାଦୁଅ, ପାଣି ଏବଂ ଗୋଡ଼ିରୁ ସୁରକ୍ଷା ଦେବା ପାଇଁ",
+      "ସ୍ଥାନ": "ଚକର ଠିକ୍ ଉପର ଭାଗରେ",
+      "ଗୁରୁତ୍ୱ": "ବର୍ଷା ଦିନେ ପଛରେ ଆସୁଥିବା ଗାଡ଼ି ଓ ପଥଚାରୀଙ୍କ ଉପରେ କାଦୁଅ ପଡ଼ିବାରୁ ରୋକେ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଏହାକୁ 'ଫେଣ୍ଡର' (Fender) ବୋଲି ମଧ୍ୟ କୁହାଯାଏ ।",
+        "ଅଧିକାଂଶ ବାଇକ୍ ଓ ସାଇକେଲରେ ଏହା ପ୍ଲାଷ୍ଟିକ୍ ବା ଧାତୁରେ ନିର୍ମିତ ହୋଇଥାଏ ।"
+      ]
+    }
+  },
+  {
+    "name": "Footrest",
+    "category": "ଗାଡ଼ିର ମୁଖ୍ୟ ଅଂଶ",
+    "description": "support platform for resting feet while riding a two-wheeler",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/gadi-ebom-sadaka/footrest.jpg",
+    "odiaName": "ପାଦଦାନୀ",
+    "descriptionOdia": "ଦୁଇଚକିଆ ଯାନରେ ବସିବା ସମୟରେ ପାଦ ରଖିବା ପାଇଁ ଥିବା ଆଧାର",
+    "details": {
+      "ବ୍ୟବହାର": "ଚାଳକ ଓ ପଛରେ ବସିଥିବା ଆରୋହୀଙ୍କ ପାଦ ରଖିବା ପାଇଁ",
+      "ଉପାଦାନ": "ଲୁହା ଓ ରବର ଗ୍ରିପ୍",
+      "ଗୁରୁତ୍ୱ": "ଯାତ୍ରା ସମୟରେ ଶରୀରର ସନ୍ତୁଳନ ରକ୍ଷା କରିବାରେ ସାହାଯ୍ୟ କରେ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଭାରତୀୟ ବାଇକ୍ ଓ ସ୍କୁଟରଗୁଡ଼ିକରେ ମହିଳା ଆରୋହୀଙ୍କ ସୁବିଧା ପାଇଁ ବାମ ପାର୍ଶ୍ୱରେ ସ୍ୱତନ୍ତ୍ର ଫୁଟରେଷ୍ଟ ଓ ଶାଢ଼ୀ ଗାର୍ଡ ଦିଆଯାଇଥାଏ ।"
+      ]
+    }
+  },
+  {
+    "name": "Headlight",
+    "category": "ଆଲୋକ ଓ ସଙ୍କେତ",
+    "description": "front-facing lamp illuminating the road ahead in darkness",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/gadi-ebom-sadaka/headlight.jpg",
+    "odiaName": "ଅଗ୍ରଦୀପ / ସମ୍ମୁଖ ଆଲୋକ",
+    "descriptionOdia": "ରାତିରେ ବା ଅନ୍ଧାରରେ ସାମ୍ନା ରାସ୍ତାକୁ ଆଲୋକିତ କରୁଥିବା ମୁଖ୍ୟ ବତୀ",
+    "details": {
+      "ବ୍ୟବହାର": "ରାତି ଓ କୁହୁଡ଼ି ସମୟରେ ରାସ୍ତା ଦେଖିବା ପାଇଁ",
+      "ପ୍ରକାରଭେଦ": "ହାଲୋଜେନ୍, ଏଲଇଡି (LED), ପ୍ରୋଜେକ୍ଟର ଲାଇଟ୍",
+      "ଗୁରୁତ୍ୱ": "ଚାଳକଙ୍କୁ ରାସ୍ତାର ଖାଲଖମା ଓ ସାମ୍ନାରୁ ଆସୁଥିବା ଗାଡ଼ି ଦେଖିବାରେ ସାହାଯ୍ୟ କରେ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଏଥିରେ 'ଲୋ ବିମ୍' (ପାଖ ପାଇଁ) ଏବଂ 'ହାଇ ବିମ୍' (ଦୂର ପାଇଁ) ଦୁଇଟି ବ୍ୟବସ୍ଥା ଥାଏ ।",
+        "ବର୍ତ୍ତମାନର ନୂଆ ବାଇକଗୁଡ଼ିକରେ ସୁରକ୍ଷା ଦୃଷ୍ଟିରୁ ସବୁବେଳେ ଜଳୁଥିବା AHO ହେଡଲାଇଟ୍ ରହୁଛି ।"
+      ]
+    }
+  },
+  {
+    "name": "Tail light / Backlight",
+    "category": "ଆଲୋକ ଓ ସଙ୍କେତ",
+    "description": "rear red light making the vehicle visible from behind",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/gadi-ebom-sadaka/tail-light-backlight.jpg",
+    "odiaName": "ପଶ୍ଚାତ୍ ଦୀପ",
+    "descriptionOdia": "ଗାଡ଼ିର ପଛ ଭାଗରେ ଲାଗିଥିବା ନାଲି ରଙ୍ଗର ସଙ୍କେତ ଆଲୋକ",
+    "details": {
+      "ବ୍ୟବହାର": "ପଛରୁ ଆସୁଥିବା ଗାଡ଼ିକୁ ନିଜ ଉପସ୍ଥିତି ଜଣାଇବା ପାଇଁ",
+      "ରଙ୍ଗ": "ନାଲି (Red)",
+      "ଗୁରୁତ୍ୱ": "ବ୍ରେକ୍ ମାରିବା ସମୟରେ ଏହା ଅଧିକ ଉଜ୍ଜ୍ୱଳ ହୋଇ ପଛ ଗାଡ଼ିକୁ ସତର୍କ କରାଏ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ନାଲି ରଙ୍ଗର ଆଲୋକ ଦୂରରୁ ଏବଂ କୁହୁଡ଼ିରେ ମଧ୍ୟ ସ୍ପଷ୍ଟ ଦେଖାଯାଏ, ତେଣୁ ପଛ ଲାଇଟ୍ ନାଲି ରଖାଯାଏ ।"
+      ]
+    }
+  },
+  {
+    "name": "Indicator",
+    "category": "ଆଲୋକ ଓ ସଙ୍କେତ",
+    "description": "blinking amber lights signaling intended turns or lane changes",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/gadi-ebom-sadaka/indicator.jpg",
+    "odiaName": "ଦିଗ ସୂଚକ ଆଲୋକ",
+    "descriptionOdia": "ଗାଡ଼ି କେଉଁ ଦିଗକୁ ମୋଡ଼ିବ ତାହା ଜଣାଇବା ପାଇଁ ଜଳୁଥିବା ସଙ୍କେତ ବତୀ",
+    "details": {
+      "ବ୍ୟବହାର": "ଡାହାଣ ବା ବାମ ଦିଗକୁ ବୁଲିବା ପୂର୍ବରୁ ସୂଚନା ଦେବା ପାଇଁ",
+      "ରଙ୍ଗ": "ହଳଦିଆ ବା କମଳା (Amber)",
+      "ଗୁରୁତ୍ୱ": "ଅନ୍ୟ ଚାଳକମାନଙ୍କୁ ସତର୍କ କରାଇ ସଡ଼କ ଦୁର୍ଘଟଣା ଏଡ଼ାଇବାରେ ସାହାଯ୍ୟ କରେ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଚାରୋଟି ଯାକ ଇଣ୍ଡିକେଟର ଏକାସାଙ୍ଗରେ ଜଳିଲେ ତାହାକୁ 'ହାଜାର୍ଡ ଲାଇଟ୍' କୁହାଯାଏ, ଯାହା ଗାଡ଼ି ଖରାପ ହୋଇଥିଲେ ବ୍ୟବହାର ହୁଏ ।"
+      ]
+    }
+  },
+  {
+    "name": "Horn",
+    "category": "ଆଲୋକ ଓ ସଙ୍କେତ",
+    "description": "audible signaling device used to warn pedestrians and other drivers",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/gadi-ebom-sadaka/horn.jpg",
+    "odiaName": "ଭେଁପୁ / ଧ୍ୱନି ସଙ୍କେତକ",
+    "descriptionOdia": "ପଥଚାରୀ ଓ ଅନ୍ୟ ଗାଡ଼ି ଚାଳକଙ୍କୁ ସତର୍କ କରାଇବା ପାଇଁ ଶବ୍ଦ କରୁଥିବା ଉପକରଣ",
+    "details": {
+      "ବ୍ୟବହାର": "ଅନ୍ଧାରିଆ ମୋଡ଼ରେ ବା ଜରୁରୀ ପରିସ୍ଥିତିରେ ସତର୍କ ସୂଚନା ଦେବା ପାଇଁ",
+      "ପ୍ରକାରଭେଦ": "ଇଲେକ୍ଟ୍ରିକ୍ ହର୍ଣ୍ଣ, ଏୟାର ହର୍ଣ୍ଣ",
+      "ଗୁରୁତ୍ୱ": "ଦୃଷ୍ଟି ଆଢ଼ୁଆଳରେ ଥିବା ଲୋକଙ୍କୁ ଗାଡ଼ି ଆସିବାର ସୂଚନା ଦିଏ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଡାକ୍ତରଖାନା ଓ ବିଦ୍ୟାଳୟ ନିକଟରେ 'ନୋ ହର୍ଣ୍ଣ' ଜୋନରେ ହର୍ଣ୍ଣ ବଜାଇବା ନିଷେଧ ଅଟେ ।",
+        "ଅତ୍ୟଧିକ କର୍କଶ ପ୍ରେସର ହର୍ଣ୍ଣ ବ୍ୟବହାର କରିବା ଦଣ୍ଡନୀୟ ଅପରାଧ ।"
+      ]
+    }
+  },
+  {
+    "name": "Side Mirror / Rearview Mirror",
+    "category": "ଆଲୋକ ଓ ସଙ୍କେତ",
+    "description": "mirrors allowing the driver to see behind and to the sides",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/gadi-ebom-sadaka/side-mirror-rearview-mirror.jpg",
+    "odiaName": "ପାର୍ଶ୍ୱ ଦର୍ପଣ / ପଶ୍ଚାତ୍ ଦର୍ପଣ",
+    "descriptionOdia": "ଗାଡ଼ିର ପଛ ଓ ପାର୍ଶ୍ୱ ଭାଗରେ ଆସୁଥିବା ଯାନବାହନ ଦେଖିବା ପାଇଁ ଲାଗିଥିବା ଦର୍ପଣ",
+    "details": {
+      "ବ୍ୟବହାର": "ଗାଡ଼ି ପଛର ଦୃଶ୍ୟ ଦେଖିବା ଓ ଲେନ୍ ବଦଳାଇବା ପାଇଁ",
+      "ପ୍ରକାରଭେଦ": "ଉତ୍ତଳ ଦର୍ପଣ (Convex Mirror)",
+      "ଗୁରୁତ୍ୱ": "ମୁଣ୍ଡ ପଛକୁ ନ ବୁଲାଇ ସୁରକ୍ଷିତ ଭାବରେ ଓଭରଟେକ୍ ବା ମୋଡ଼ିବାରେ ସାହାଯ୍ୟ କରେ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଉତ୍ତଳ ଦର୍ପଣ ବ୍ୟବହାର ହେଉଥିବାରୁ ଏଥିରେ ବସ୍ତୁଗୁଡ଼ିକ ପ୍ରକୃତ ଆକାରଠାରୁ ଟିକେ ଛୋଟ ଓ ଦୂରରେ ଦେଖାଯାଏ ।"
+      ]
+    }
+  },
+  {
+    "name": "Speedometer",
+    "category": "ଆଲୋକ ଓ ସଙ୍କେତ",
+    "description": "dashboard instrument displaying the instantaneous speed of a vehicle",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/gadi-ebom-sadaka/speedometer.jpg",
+    "odiaName": "ବେଗମାପକ ଯନ୍ତ୍ର",
+    "descriptionOdia": "ଗାଡ଼ି କେତେ ବେଗରେ ଚାଲୁଛି ତାହା ଦର୍ଶାଉଥିବା ମିଟର",
+    "details": {
+      "ବ୍ୟବହାର": "ଗାଡ଼ିର ବର୍ତ୍ତମାନର ବେଗ ଜାଣିବା ପାଇଁ",
+      "ପ୍ରକାରଭେଦ": "ଆନାଲଗ୍ (କଣ୍ଟାଯୁକ୍ତ) ଓ ଡିଜିଟାଲ୍ ସ୍ପିଡୋମିଟର",
+      "ଗୁରୁତ୍ୱ": "ନିର୍ଦ୍ଧାରିତ ବେଗ ସୀମା (Speed Limit) ମଧ୍ୟରେ ଗାଡ଼ି ଚଳାଇବାରେ ସାହାଯ୍ୟ କରେ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଭାରତରେ ଗାଡ଼ିର ବେଗ କିଲୋମିଟର ପ୍ରତି ଘଣ୍ଟା (km/h) ଏକକରେ ମପାଯାଏ ।",
+        "ଏହା ସହିତ ଗାଡ଼ି କେତେ ଦୂର ଚାଲିଛି ତାହା ମାପିବା ପାଇଁ 'ଓଡୋମିଟର' (Odometer) ମଧ୍ୟ ଥାଏ ।"
+      ]
+    }
+  },
+  {
+    "name": "Number Plate",
+    "category": "ଆଲୋକ ଓ ସଙ୍କେତ",
+    "description": "metal or plastic plate displaying the official registration number",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/gadi-ebom-sadaka/number-plate.jpg",
+    "odiaName": "ପଞ୍ଜୀକରଣ ଫଳକ",
+    "descriptionOdia": "ସରକାରୀ ପରିବହନ ବିଭାଗ ଦ୍ୱାରା ପ୍ରଦତ୍ତ ଗାଡ଼ିର ପଞ୍ଜୀକରଣ ନମ୍ବର ଲେଖାଥିବା ଫଳକ",
+    "details": {
+      "ବ୍ୟବହାର": "ଗାଡ଼ିର ପରିଚୟ ଓ ମାଲିକାନା ଚିହ୍ନଟ କରିବା ପାଇଁ",
+      "ପ୍ରକାରଭେଦ": "ଧଳା (ଘରୋଇ), ହଳଦିଆ (ବ୍ୟବସାୟିକ), ସବୁଜ (ବୈଦ୍ୟୁତିକ)",
+      "ଗୁରୁତ୍ୱ": "ନିୟମ ଉଲ୍ଲଙ୍ଘନ ବା ଚୋରି ହେଲେ ଗାଡ଼ିକୁ ସହଜରେ ଚିହ୍ନଟ କରିବାରେ ସାହାଯ୍ୟ କରେ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଓଡ଼ିଶାର ଗାଡ଼ି ନମ୍ବର ପ୍ଲେଟ୍ 'OD' ଅକ୍ଷରରୁ ଆରମ୍ଭ ହୋଇଥାଏ (ପୂର୍ବରୁ 'OR' ଥିଲା) ।",
+        "ବର୍ତ୍ତମାନ ସମସ୍ତ ଗାଡ଼ିରେ HSRP (High Security Registration Plate) ଲଗାଇବା ବାଧ୍ୟତାମୂଳକ ।"
+      ]
+    }
+  },
+  {
+    "name": "Traffic Signal",
+    "category": "ସଡ଼କ ଓ ନିୟମାବଳୀ",
+    "description": "automated colored lights controlling traffic flow at intersections",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/gadi-ebom-sadaka/traffic-signal.jpg",
+    "odiaName": "ଯାତାୟାତ ସଙ୍କେତ",
+    "descriptionOdia": "ଛକ ସ୍ଥାନମାନଙ୍କରେ ଯାନବାହନ ଚଳାଚଳକୁ ନିୟନ୍ତ୍ରଣ କରୁଥିବା ତିନିରଙ୍ଗୀ ଆଲୋକ ସଙ୍କେତ",
+    "details": {
+      "ବ୍ୟବହାର": "ରାସ୍ତା ଛକରେ ଶୃଙ୍ଖଳିତ ଯାତାୟାତ ପାଇଁ",
+      "ରଙ୍ଗ_ସଙ୍କେତ": "ନାଲି (ରହନ୍ତୁ), ହଳଦିଆ (ପ୍ରସ୍ତୁତ ହୁଅନ୍ତୁ), ସବୁଜ (ଯାଆନ୍ତୁ)",
+      "ଗୁରୁତ୍ୱ": "ଟ୍ରାଫିକ୍ ଜାମ୍ ଏଡ଼ାଇବା ଓ ଦୁର୍ଘଟଣା ରୋକିବାରେ ପ୍ରମୁଖ ଭୂମିକା ନିଭାଏ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ବିଶ୍ୱର ପ୍ରଥମ ଟ୍ରାଫିକ୍ ସିଗନାଲ୍ ୧୮୬୮ ମସିହାରେ ଲଣ୍ଡନରେ ସ୍ଥାପିତ ହୋଇଥିଲା ।"
+      ]
+    }
+  },
+  {
+    "name": "Zebra Crossing",
+    "category": "ସଡ଼କ ଓ ନିୟମାବଳୀ",
+    "description": "striped pedestrian walkway marked across a road",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/gadi-ebom-sadaka/zebra-crossing.jpg",
+    "odiaName": "ପଥଚାରୀ ପାରାବାର ପଥ",
+    "descriptionOdia": "ପଥଚାରୀମାନେ ସୁରକ୍ଷିତ ଭାବରେ ରାସ୍ତା ପାର ହେବା ପାଇଁ ଅଙ୍କାଯାଇଥିବା ଧଳା-କଳା ଗାର",
+    "details": {
+      "ବ୍ୟବହାର": "ଚାଲିଚାଲି ଯାଉଥିବା ଲୋକଙ୍କ ରାସ୍ତା ପାର ହେବା ପାଇଁ",
+      "ଚିହ୍ନ": "ରାସ୍ତା ଉପରେ ସମାନ୍ତରାଳ ଧଳା ପଟି",
+      "ଗୁରୁତ୍ୱ": "ପଥଚାରୀମାନଙ୍କୁ ରାସ୍ତା ପାର ହେବାରେ ପ୍ରଥମ ଅଧିକାର ପ୍ରଦାନ କରେ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଏହାର ରଙ୍ଗ ଜେବ୍ରାର ଶରୀରର ପଟି ଭଳି ଦେଖାଯାଉଥିବାରୁ ଏହାକୁ ଜେବ୍ରା କ୍ରସିଂ କୁହାଯାଏ ।",
+        "ନାଲି ସିଗନାଲ୍ ସମୟରେ ଗାଡ଼ିକୁ ସର୍ବଦା ଜେବ୍ରା କ୍ରସିଂ ପଛରେ ଅଟକାଇବା ଉଚିତ ।"
+      ]
+    }
+  },
+  {
+    "name": "Speed Breaker",
+    "category": "ସଡ଼କ ଓ ନିୟମାବଳୀ",
+    "description": "raised road surface designed to force vehicles to slow down",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/gadi-ebom-sadaka/speed-breaker.jpg",
+    "odiaName": "ବେଗ ନିୟନ୍ତ୍ରକ / ହମ୍ପସ୍",
+    "descriptionOdia": "ଗାଡ଼ିର ଅତ୍ୟଧିକ ବେଗକୁ ନିୟନ୍ତ୍ରଣ କରିବା ପାଇଁ ରାସ୍ତାରେ ତିଆରି ଉଚ୍ଚା ଅଂଶ",
+    "details": {
+      "ବ୍ୟବହାର": "ବିଦ୍ୟାଳୟ, ଡାକ୍ତରଖାନା, ବଜାର ଓ ଜନବସତି ଅଞ୍ଚଳରେ ଗାଡ଼ିର ବେଗ କମାଇବା ପାଇଁ",
+      "ଉପାଦାନ": "ପିଚୁ, କଂକ୍ରିଟ୍ ବା ରବର",
+      "ଗୁରୁତ୍ୱ": "ଦ୍ରୁତଗାମୀ ଗାଡ଼ି ଯୋଗୁଁ ଘଟୁଥିବା ଦୁର୍ଘଟଣାକୁ ରୋକିଥାଏ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଦୂରରୁ ଦେଖାଯିବା ପାଇଁ ସ୍ପିଡ୍ ବ୍ରେକର ଉପରେ ଧଳା ବା ହଳଦିଆ ରଙ୍ଗର ପଟି ଦିଆଯାଇଥାଏ ।"
+      ]
+    }
+  },
+  {
+    "name": "Driving License",
+    "category": "ସଡ଼କ ଓ ନିୟମାବଳୀ",
+    "description": "official government document authorizing a person to operate motor vehicles",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/gadi-ebom-sadaka/driving-license.jpg",
+    "odiaName": "ଗାଡ଼ି ଚାଳନା ଅନୁମତି ପତ୍ର",
+    "descriptionOdia": "ସର୍ବସାଧାରଣ ରାସ୍ତାରେ ଗାଡ଼ି ଚଳାଇବା ପାଇଁ ସରକାରଙ୍କ ଦ୍ୱାରା ପ୍ରଦତ୍ତ ଆଇନଗତ ପ୍ରମାଣପତ୍ର",
+    "details": {
+      "ବ୍ୟବହାର": "ଗାଡ଼ି ଚଳାଇବାର ଯୋଗ୍ୟତା ଓ ଆଇନଗତ ଅଧିକାର ପ୍ରମାଣ ପାଇଁ",
+      "ସର୍ବନିମ୍ନ_ବୟସ": "୧୮ ବର୍ଷ (ଗିଅର୍ ବିହୀନ ୫୦ସିସି ଗାଡ଼ି ପାଇଁ ୧୬ ବର୍ଷ)",
+      "ଗୁରୁତ୍ୱ": "ଚାଳକ ସଡ଼କ ନିୟମ ଜାଣିଛନ୍ତି ଓ ଗାଡ଼ି ଚଳାଇବାରେ ଦକ୍ଷ ବୋଲି ଏହା ପ୍ରମାଣ କରେ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ପ୍ରଥମେ 'ଲର୍ଣ୍ଣର ଲାଇସେନ୍ସ' (LL) ମିଳେ ଏବଂ ପରୀକ୍ଷା ପରେ ସ୍ଥାୟୀ 'ଡ୍ରାଇଭିଂ ଲାଇସେନ୍ସ' (DL) ପ୍ରଦାନ କରାଯାଏ ।"
+      ]
+    }
+  },
+  {
+    "name": "Puncture",
+    "category": "ସଡ଼କ ଓ ନିୟମାବଳୀ",
+    "description": "small hole in a tyre causing air to escape",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/gadi-ebom-sadaka/puncture.jpg",
+    "odiaName": "ଚକ କଣା ହେବା / ପବନ ବାହାରିଯିବା",
+    "descriptionOdia": "କଣ୍ଟା ବା ତୀକ୍ଷ୍ଣ ବସ୍ତୁ ଫୋଡ଼ି ହୋଇ ଟାୟାରରୁ ପବନ ବାହାରିଯିବା ଅବସ୍ଥା",
+    "details": {
+      "କାରଣ": "ରାସ୍ତାରେ ପଡ଼ିଥିବା କଣ୍ଟା, କାଚ ବା ତୀକ୍ଷ୍ଣ ପଥର ବାଜିବା",
+      "ପ୍ରତିକାର": "ପଙ୍କଚର୍ ମରାମତି କରିବା ବା ଷ୍ଟେପ୍ନି ଚକ ବଦଳାଇବା",
+      "ଗୁରୁତ୍ୱ": "ପଙ୍କଚର୍ ଅବସ୍ଥାରେ ଗାଡ଼ି ଚଳାଇଲେ ଟାୟାର ଓ ରିମ୍ ସମ୍ପୂର୍ଣ୍ଣ ନଷ୍ଟ ହୋଇଯାଏ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଟ୍ୟୁବଲେସ୍ ଟାୟାର ପଙ୍କଚର୍ ହେଲେ ମଧ୍ୟ ହଠାତ୍ ସବୁ ପବନ ବାହାରି ନଯାଇ ଧୀରେ ଧୀରେ କମେ, ଯାହା ସୁରକ୍ଷିତ ଅଟେ ।"
+      ]
+    }
+  }
+]
