@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "maintenanceMode": false,
+  "maintenanceMessage": "ସର୍ଭର ମେଣ୍ଟେନାନ୍ସ ଚାଲିଛି, ଦୟାକରି କିଛି ସମୟ ପରେ ଚେଷ୍ଟା କରନ୍ତୁ।",
+  "hiddenTabs": [],
+  "notification": {
+    "hasNew": true,
+    "title": "ନୂଆ ବିଭାଗ ଆସିଛି! 🎉",
+    "message": "ଆସ ଜାଣିବାରେ ଏବେ 'ଗାଡ଼ି ଓ ସଡ଼କ' ବିଭାଗ ଯୋଡ଼ା ଯାଇଛି। ଆପଣ ଗୋଟିଏ କିମ୍ବା ସବୁ ବିଭାଗ ଅଫଲାଇନ୍ ଡାଉନଲୋଡ୍ କରିପାରିବେ!"
+  },
+  "categories": [
+    {
+      "id": "animals",
+      "title": "ପଶୁ ଓ ପକ୍ଷୀ",
+      "url": "https://imsbg.github.io/animals/odia-bhasa/data.json",
+      "icon": "🦁",
+      "isNew": false,
+      "tag": ""
+    },
+    {
+      "id": "fruits",
+      "title": "ଫଳ",
+      "url": "https://imsbg.github.io/fruits-and-vegetables/data/fruits.json",
+      "icon": "🥭",
+      "isNew": false,
+      "tag": ""
+    },
+    {
+      "id": "vegetables",
+      "title": "ପନିପରିବା",
+      "url": "https://imsbg.github.io/fruits-and-vegetables/data/vegetables.json",
+      "icon": "🥔",
+      "isNew": false,
+      "tag": ""
+    },
+    {
+      "id": "gadi-ebom-sadaka",
+      "title": "ଗାଡ଼ି ଓ ସଡ଼କ",
+      "url": "https://imsbg.github.io/asa-janiba-data/gadi-ebom-sadaka.json",
+      "icon": "🚗",
+      "isNew": true,
+      "tag": "ନୂତନ"
+    }
+  ]
+}
