@@ -1,0 +1,403 @@
+[
+  {
+    "version": 1,
+    "name": "Bicycle",
+    "category": "ସ୍ଥଳପଥ ଯାନ",
+    "description": "human-powered two-wheeled vehicle propelled by pedals",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/jana-bahana/bicycle.jpg",
+    "odiaName": "ଦ୍ୱିଚକ୍ର ଯାନ / ସାଇକେଲ",
+    "descriptionOdia": "ପାଦରେ ପେଡାଲ୍ ଚଳାଇ ଚଲାଯାଉଥିବା ଦୁଇଚକିଆ ଯାନ",
+    "details": {
+      "ଚାଳନା_ମାଧ୍ୟମ": "ମାନବ ଶକ୍ତି (ପେଡାଲ୍)",
+      "ଚକ_ସଂଖ୍ୟା": "୨ଟି",
+      "ବ୍ୟବହାର": "ସ୍ୱଳ୍ପ ଦୂରତା ଯାତ୍ରା, ବ୍ୟାୟାମ ଓ ପରିବେଶ ଅନୁକୂଳ ଗମନାଗମନ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଏହା କୌଣସି ଇନ୍ଧନ ବିନା ଚାଲେ ଏବଂ ଆଦୌ ବାୟୁ ପ୍ରଦୂଷଣ କରେ ନାହିଁ ।",
+        "ସାଇକେଲ ଚଳାଇବା ସ୍ୱାସ୍ଥ୍ୟ ପାଇଁ ଏକ ଉତ୍ତମ ବ୍ୟାୟାମ ଅଟେ ।"
+      ]
+    }
+  },
+  {
+    "name": "Bike / Motorcycle",
+    "category": "ସ୍ଥଳପଥ ଯାନ",
+    "description": "engine-powered two-wheeled motor vehicle for rapid road travel",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/jana-bahana/bike-motorcycle.jpg",
+    "odiaName": "ଯନ୍ତ୍ରଚାଳିତ ଦ୍ୱିଚକ୍ର ଯାନ / ମୋଟରସାଇକେଲ",
+    "descriptionOdia": "ଇଞ୍ଜିନ ବା ବ୍ୟାଟେରୀ ସାହାଯ୍ୟରେ ଚାଲୁଥିବା ଦୁଇଚକିଆ ଯାନ",
+    "details": {
+      "ଚାଳନା_ମାଧ୍ୟମ": "ପେଟ୍ରୋଲ୍ ଇଞ୍ଜିନ ବା ବୈଦ୍ୟୁତିକ ମୋଟର",
+      "ଚକ_ସଂଖ୍ୟା": "୨ଟି",
+      "ବ୍ୟବହାର": "ଦୈନନ୍ଦିନ ଯାତାୟାତ ଏବଂ ଦ୍ରୁତ ଗମନାଗମନ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଦୁଇଚକିଆ ଯାନ ଚଳାଇବା ସମୟରେ ଶିରସ୍ତ୍ରାଣ ପିନ୍ଧିବା ବାଧ୍ୟତାମୂଳକ ।",
+        "ଭାରତରେ ଏହା ସବୁଠାରୁ ଅଧିକ ବ୍ୟବହୃତ ବ୍ୟକ୍ତିଗତ ଯାନ ଅଟେ ।"
+      ]
+    }
+  },
+  {
+    "name": "Auto Rickshaw",
+    "category": "ସ୍ଥଳପଥ ଯାନ",
+    "description": "three-wheeled motorized vehicle commonly used for short-distance public transport",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/jana-bahana/auto-rickshaw.jpg",
+    "odiaName": "ତ୍ରିଚକ୍ର ଯାନ / ଅଟୋ ରିକ୍ସା",
+    "descriptionOdia": "ସହର ଓ ଗ୍ରାମାଞ୍ଚଳରେ ଯାତ୍ରୀ ପରିବହନ ପାଇଁ ବ୍ୟବହୃତ ତିନିଚକିଆ ଯାନ",
+    "details": {
+      "ଚାଳନା_ମାଧ୍ୟମ": "ପେଟ୍ରୋଲ୍, ଡିଜେଲ୍, ସିଏନଜି ବା ବିଦ୍ୟୁତ",
+      "ଚକ_ସଂଖ୍ୟା": "୩ଟି",
+      "ବ୍ୟବହାର": "ସ୍ଥାନୀୟ ଯାତ୍ରୀ ପରିବହନ ଓ ସ୍ୱଳ୍ପ ଓଜନର ମାଲ ପରିବହନ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ସଂକୀର୍ଣ୍ଣ ରାସ୍ତାରେ ସହଜରେ ଯାତାୟାତ କରିପାରୁଥିବାରୁ ଏହା ଭାରତୀୟ ସହରମାନଙ୍କରେ ଖୁବ୍ ଲୋକପ୍ରିୟ ।",
+        "ବର୍ତ୍ତମାନ ପ୍ରଦୂଷଣ ରୋକିବା ପାଇଁ ବ୍ୟାଟେରୀ ଚାଳିତ ଇ-ରିକ୍ସା  ଅଧିକ ବ୍ୟବହୃତ ହେଉଛି ।"
+      ]
+    }
+  },
+  {
+    "name": "Car",
+    "category": "ସ୍ଥଳପଥ ଯାନ",
+    "description": "four-wheeled enclosed motor vehicle designed primarily for passenger transport",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/jana-bahana/car.jpg",
+    "odiaName": "ଚାରିଚକିଆ ଯାନ / ମୋଟରଗାଡ଼ି",
+    "descriptionOdia": "ପରିବାର ଓ ଯାତ୍ରୀମାନଙ୍କ ଆରାମଦାୟକ ଯାତ୍ରା ପାଇଁ ବ୍ୟବହୃତ ଚାରିଚକିଆ ଯାନ",
+    "details": {
+      "ଚାଳନା_ମାଧ୍ୟମ": "ପେଟ୍ରୋଲ୍, ଡିଜେଲ୍, ସିଏନଜି ବା ବିଦ୍ୟୁତ",
+      "ଚକ_ସଂଖ୍ୟା": "୪ଟି",
+      "ବ୍ୟବହାର": "ବ୍ୟକ୍ତିଗତ ଓ ପାରିବାରିକ ଯାତ୍ରା",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଏଥିରେ ଯାତ୍ରୀଙ୍କ ସୁରକ୍ଷା ପାଇଁ ଆସନ ପଟି ଏବଂ ବାୟୁ ଥଳି ରହିଥାଏ ।",
+        "ସମସ୍ତ ପ୍ରକାର ପାଗରେ ଏହା ଆରାମଦାୟକ ଯାତ୍ରା ପ୍ରଦାନ କରେ ।"
+      ]
+    }
+  },
+  {
+    "name": "Bus",
+    "category": "ସ୍ଥଳପଥ ଯାନ",
+    "description": "large road vehicle designed to carry numerous passengers along fixed routes",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/jana-bahana/bus.jpg",
+    "odiaName": "ଯାତ୍ରୀବାହୀ ବଡ଼ ଗାଡ଼ି / ବହୁଯାତ୍ରୀବାହୀ ଯାନ",
+    "descriptionOdia": "ଏକସଙ୍ଗେ ଅନେକ ଯାତ୍ରୀଙ୍କୁ ଗୋଟିଏ ସ୍ଥାନରୁ ଅନ୍ୟ ସ୍ଥାନକୁ ନେଉଥିବା ବଡ଼ ଯାନ",
+    "details": {
+      "ଚାଳନା_ମାଧ୍ୟମ": "ଡିଜେଲ୍, ସିଏନଜି ବା ବିଦ୍ୟୁତ",
+      "ଚକ_ସଂଖ୍ୟା": "୪ରୁ ୬ଟି ବା ଅଧିକ",
+      "ବ୍ୟବହାର": "ସର୍ବସାଧାରଣ ପରିବହନ, ଦୂରଯାତ୍ରା ଓ ବିଦ୍ୟାଳୟ ଯାତାୟାତ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଏକସଙ୍ଗେ ୩୦ରୁ ୬୦ ଜଣ ଯାତ୍ରୀ ଯାତ୍ରା କରିପାରୁଥିବାରୁ ଏହା ରାସ୍ତାରେ ଟ୍ରାଫିକ୍ ଭିଡ଼ କମାଏ ।",
+        "ଓଡ଼ିଶାରେ 'ମୋ ବସ୍/ଆମ ବସ୍' ଯାତାୟାତର ଏକ ପ୍ରମୁଖ ମାଧ୍ୟମ ଅଟେ ।"
+      ]
+    }
+  },
+  {
+    "name": "Truck / Lorry",
+    "category": "ସ୍ଥଳପଥ ଯାନ",
+    "description": "heavy motor vehicle built for transporting cargo and commercial goods",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/jana-bahana/truck-lorry.jpg",
+    "odiaName": "ମାଲବାହୀ ଯାନ / ଭାରୀଯାନ",
+    "descriptionOdia": "ଭାରୀ ଜିନିଷପତ୍ର ଓ ବାଣିଜ୍ୟିକ ସାମଗ୍ରୀ ପରିବହନ ପାଇଁ ବ୍ୟବହୃତ ବଡ଼ ଯାନ",
+    "details": {
+      "ଚାଳନା_ମାଧ୍ୟମ": "ଡିଜେଲ୍ ଇଞ୍ଜିନ",
+      "ଚକ_ସଂଖ୍ୟା": "୬ରୁ ୧୮ଟି ବା ଅଧିକ",
+      "ବ୍ୟବହାର": "ଶିଳ୍ପ ସାମଗ୍ରୀ, ଖାଦ୍ୟଶସ୍ୟ ଓ ନିର୍ମାଣ ସାମଗ୍ରୀ ପରିବହନ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଦେଶର ଅର୍ଥନୀତି ଓ ବାଣିଜ୍ୟ କାରବାରରେ ମାଲବାହୀ ଯାନର ପ୍ରମୁଖ ଭୂମିକା ରହିଛି ।",
+        "ଅଧିକ ଓଜନ ବୋହିବା ପାଇଁ ଏଥିରେ ଏକାଧିକ ଆକ୍ସେଲ୍ ଓ ଚକ ଲାଗିଥାଏ ।"
+      ]
+    }
+  },
+  {
+    "name": "Ambulance",
+    "category": "ସ୍ଥଳପଥ ଯାନ",
+    "description": "medically equipped emergency vehicle for transporting patients to hospitals",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/jana-bahana/ambulance.jpg",
+    "odiaName": "ରୋଗୀବାହୀ ଯାନ",
+    "descriptionOdia": "ଗୁରୁତର ରୋଗୀ ଓ ଆହତ ବ୍ୟକ୍ତିଙ୍କୁ ତୁରନ୍ତ ଚିକିତ୍ସାଳୟକୁ ନେଉଥିବା ଜରୁରୀକାଳୀନ ଯାନ",
+    "details": {
+      "ଚାଳନା_ମାଧ୍ୟମ": "ପେଟ୍ରୋଲ୍ ବା ଡିଜେଲ୍ ଇଞ୍ଜିନ",
+      "ବ୍ୟବହାର": "ଜରୁରୀକାଳୀନ ଚିକିତ୍ସା ସେବା ଓ ରୋଗୀ ସ୍ଥାନାନ୍ତର",
+      "ବିଶେଷତ୍ୱ": "ସାଇରନ୍, ନୀଳ/ନାଲି ବତୀ ଓ ପ୍ରାଥମିକ ଜୀବନ ରକ୍ଷାକାରୀ ଉପକରଣ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ରାସ୍ତାରେ ରୋଗୀବାହୀ ଯାନକୁ ସର୍ବପ୍ରଥମେ ବାଟ ଛାଡ଼ିବା ପ୍ରତ୍ୟେକ ନାଗରିକଙ୍କ କର୍ତ୍ତବ୍ୟ ଅଟେ ।",
+        "ଓଡ଼ିଶାରେ ଜରୁରୀକାଳୀନ ଆମ୍ବୁଲାନ୍ସ ସେବା ପାଇଁ ୧୦୮ ନମ୍ବର ଡାଏଲ୍ କରାଯାଏ ।"
+      ]
+    }
+  },
+  {
+    "name": "Fire Engine",
+    "category": "ସ୍ଥଳପଥ ଯାନ",
+    "description": "specialized emergency truck equipped with water tanks and hoses to fight fires",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/jana-bahana/fire-engine.jpg",
+    "odiaName": "ଅଗ୍ନିଶମ ଯାନ / ଦମକଳ ଗାଡ଼ି",
+    "descriptionOdia": "ଅଗ୍ନିକାଣ୍ଡ ଲିଭାଇବା ଏବଂ ଉଦ୍ଧାର କାର୍ଯ୍ୟ ପାଇଁ ବ୍ୟବହୃତ ଜରୁରୀକାଳୀନ ଯାନ",
+    "details": {
+      "ଚାଳନା_ମାଧ୍ୟମ": "ଡିଜେଲ୍ ଇଞ୍ଜିନ",
+      "ବ୍ୟବହାର": "ନିଆଁ ଲିଭାଇବା ଓ ପ୍ରାକୃତିକ ବିପର୍ଯ୍ୟୟ ସମୟରେ ଉଦ୍ଧାର କାର୍ଯ୍ୟ",
+      "ବିଶେଷତ୍ୱ": "ବଡ଼ ଜଳ ଟାଙ୍କି, ଉଚ୍ଚ ଚାପ ବିଶିଷ୍ଟ ପମ୍ପ, ପାଇପ୍ ଓ ଶିଡ଼ି",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଦୂରରୁ ସହଜରେ ଚିହ୍ନିବା ପାଇଁ ଦମକଳ ଗାଡ଼ିର ରଙ୍ଗ ଉଜ୍ଜ୍ୱଳ ନାଲି ରଖାଯାଏ ।",
+        "ଅଗ୍ନିଶମ ସେବା ପାଇଁ ଜରୁରୀକାଳୀନ ନମ୍ବର ୧୦୧ ବା ୧୧୨ ବ୍ୟବହାର କରାଯାଏ ।"
+      ]
+    }
+  },
+  {
+    "name": "Tractor",
+    "category": "ସ୍ଥଳପଥ ଯାନ",
+    "description": "powerful agricultural vehicle used for farming tasks and hauling trailers",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/jana-bahana/tractor.jpg",
+    "odiaName": "କର୍ଷଣ ଯାନ / ଟ୍ରାକ୍ଟର",
+    "descriptionOdia": "କୃଷିକାର୍ଯ୍ୟ, ହଳ କରିବା ଓ ଭାରୀ ଟ୍ରଲି ଟାଣିବା ପାଇଁ ବ୍ୟବହୃତ ଶକ୍ତିଶାଳୀ ଯାନ",
+    "details": {
+      "ଚାଳନା_ମାଧ୍ୟମ": "ଡିଜେଲ୍ ଇଞ୍ଜିନ",
+      "ଚକ_ସଂଖ୍ୟା": "୪ଟି (ପଛ ଚକ ଦୁଇଟି ବହୁତ ବଡ଼ ଓ ଖାଲଖମା ଯୁକ୍ତ)",
+      "ବ୍ୟବହାର": "ଜମି ଚାଷ, ଫସଲ ଅମଳ ଓ କୃଷି ସାମଗ୍ରୀ ପରିବହନ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "କାଦୁଅ ଓ ଅସମତଳ ବିଲରେ ନ ଖସି ଚାଲିବା ପାଇଁ ଏହାର ପଛ ଚକ ବଡ଼ ତିଆରି ହୋଇଥାଏ ।",
+        "ଆଧୁନିକ କୃଷି କ୍ଷେତ୍ରରେ ଏହା ବଳଦ ଲଙ୍ଗଳର ବିକଳ୍ପ ଭାବେ କାର୍ଯ୍ୟ କରୁଛି ।"
+      ]
+    }
+  },
+  {
+    "name": "Train",
+    "category": "ସ୍ଥଳପଥ ଯାନ",
+    "description": "connected series of rail vehicles running along steel tracks",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/jana-bahana/train.jpg",
+    "odiaName": "ଲୌହପଥ ଯାନ / ରେଳଗାଡ଼ି / ଧୂମ୍ରଶକଟ",
+    "descriptionOdia": "ଲୁହା ଧାରଣା ଉପରେ ଚାଲୁଥିବା ଏକାଧିକ ଡବା ବିଶିଷ୍ଟ ଦୀର୍ଘ ଯାନ",
+    "details": {
+      "ଚାଳନା_ମାଧ୍ୟମ": "ବିଦ୍ୟୁତ ବା ଡିଜେଲ୍ ଲୋକୋମୋଟିଭ୍",
+      "ପଥ": "ରେଳ ଧାରଣା",
+      "ବ୍ୟବହାର": "ଦୀର୍ଘ ଦୂରତା ଯାତ୍ରୀ ଓ ବିପୁଳ ପରିମାଣର ମାଲ ପରିବହନ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଭାରତରେ ପ୍ରଥମ ରେଳଗାଡ଼ି ୧୮୫୩ ମସିହାରେ ମୁମ୍ବାଇରୁ ଥାନେ ମଧ୍ୟରେ ଚାଲିଥିଲା ।",
+        "ପୂର୍ବରୁ କୋଇଲା ବାଷ୍ପରେ ଚାଲୁଥିବାରୁ ଏହାକୁ ଓଡ଼ିଆରେ 'ଧୂମ୍ରଶକଟ' କୁହାଯାଉଥିଲା ।"
+      ]
+    }
+  },
+  {
+    "name": "Metro Train",
+    "category": "ସ୍ଥଳପଥ ଯାନ",
+    "description": "high-capacity urban electric railway system operating underground or elevated",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/jana-bahana/metro-train.jpg",
+    "odiaName": "ସହରୀ ଦ୍ରୁତଗାମୀ ରେଳଗାଡ଼ି / ମେଟ୍ରୋ ଟ୍ରେନ୍",
+    "descriptionOdia": "ବଡ଼ ସହରଗୁଡ଼ିକରେ ଭୂତଳ ବା ଉଚ୍ଚ ସେତୁ ଉପରେ ଚାଲୁଥିବା ଦ୍ରୁତଗାମୀ ବୈଦ୍ୟୁତିକ ରେଳ",
+    "details": {
+      "ଚାଳନା_ମାଧ୍ୟମ": "ବିଦ୍ୟୁତ ଶକ୍ତି",
+      "ପଥ": "ଭୂତଳ ସୁଡ଼ଙ୍ଗ ବା ଏଲିଭେଟେଡ୍ ଟ୍ରାକ୍",
+      "ବ୍ୟବହାର": "ସହର ଭିତରେ ଦ୍ରୁତ ଓ ଟ୍ରାଫିକ୍-ମୁକ୍ତ ଯାତ୍ରୀ ପରିବହନ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଭାରତର ପ୍ରଥମ ମେଟ୍ରୋ ରେଳ ସେବା ୧୯୮୪ ମସିହାରେ କୋଲକାତାରେ ଆରମ୍ଭ ହୋଇଥିଲା ।",
+        "ଏହା ସମ୍ପୂର୍ଣ୍ଣ ଶୀତତାପ ନିୟନ୍ତ୍ରିତ ଏବଂ ପରିବେଶ ଅନୁକୂଳ ଅଟେ ।"
+      ]
+    }
+  },
+  {
+    "name": "Bullock Cart",
+    "category": "ସ୍ଥଳପଥ ଯାନ",
+    "description": "traditional two-wheeled wooden cart pulled by oxen",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/jana-bahana/bullock-cart.jpg",
+    "odiaName": "ଶଗଡ଼ / ବଳଦ ଗାଡ଼ି",
+    "descriptionOdia": "ବଳଦଙ୍କ ଦ୍ୱାରା ଟଣାଯାଉଥିବା ପାରମ୍ପରିକ କାଠ ନିର୍ମିତ ଦୁଇଚକିଆ ଗାଡ଼ି",
+    "details": {
+      "ଚାଳନା_ମାଧ୍ୟମ": "ବଳଦ ଯୋଡ଼ି",
+      "ଚକ_ସଂଖ୍ୟା": "୨ଟି ବଡ଼ କାଠ ଚକ",
+      "ବ୍ୟବହାର": "ଗ୍ରାମାଞ୍ଚଳରେ ଫସଲ, କାଠ ଓ ଯାତ୍ରୀ ପରିବହନ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ପ୍ରାଚୀନ କାଳରୁ ଓଡ଼ିଶାର ଗ୍ରାମୀଣ ଜୀବନ ଓ ସଂସ୍କୃତି ସହିତ ଶଗଡ଼ ଗାଡ଼ି ଜଡ଼ିତ ।",
+        "ଏହା କୌଣସି ଇନ୍ଧନ ବିନା ଚାଲୁଥିବା ଏକ ପାରମ୍ପରିକ ପରିବହନ ମାଧ୍ୟମ ।"
+      ]
+    }
+  },
+  {
+    "name": "Rickshaw",
+    "category": "ସ୍ଥଳପଥ ଯାନ",
+    "description": "human-powered three-wheeled pedal vehicle for carrying passengers",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/jana-bahana/rickshaw.jpg",
+    "odiaName": "ତିନିଚକିଆ ରିକ୍ସା",
+    "descriptionOdia": "ପାଦରେ ପେଡାଲ୍ ମାରି ବା ହାତରେ ଟାଣି ଚଲାଯାଉଥିବା ଯାତ୍ରୀବାହୀ ତିନିଚକିଆ ଗାଡ଼ି",
+    "details": {
+      "ଚାଳନା_ମାଧ୍ୟମ": "ମାନବ ଶକ୍ତି",
+      "ଚକ_ସଂଖ୍ୟା": "୩ଟି",
+      "ବ୍ୟବହାର": "ସହର ଓ ବଜାର ଭିତରେ ସ୍ୱଳ୍ପ ଦୂରତା ଯାତ୍ରା",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଏହା ପରିବେଶ ପ୍ରଦୂଷଣ କରେ ନାହିଁ ଏବଂ ସଂକୀର୍ଣ୍ଣ ଗଳିରେ ସହଜରେ ଯାଇପାରେ ।",
+        "ବର୍ତ୍ତମାନ ପେଡାଲ୍ ରିକ୍ସା ସ୍ଥାନରେ ବ୍ୟାଟେରୀ ଚାଳିତ ରିକ୍ସା ଅଧିକ ଦେଖାଯାଉଛି ।"
+      ]
+    }
+  },
+  {
+    "name": "Boat",
+    "category": "ଜଳପଥ ଯାନ",
+    "description": "small open watercraft propelled by oars, paddles, sails, or small motors",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/jana-bahana/boat.jpg",
+    "odiaName": "ନୌକା / ତରଣୀ / ଡଙ୍ଗା",
+    "descriptionOdia": "ନଦୀ, ହ୍ରଦ ଓ ପୋଖରୀରେ ଯାତାୟାତ ଏବଂ ମାଛ ଧରିବା ପାଇଁ ବ୍ୟବହୃତ ଜଳଯାନ",
+    "details": {
+      "ଚାଳନା_ମାଧ୍ୟମ": "ଆହୁଲା (କାତ), ପାଲ ବା ଛୋଟ ଇଞ୍ଜିନ",
+      "ଉପାଦାନ": "କାଠ, ଫାଇବର ଗ୍ଲାସ୍ ବା ଆଲୁମିନିୟମ୍",
+      "ବ୍ୟବହାର": "ନଦୀ ପାର ହେବା, ମତ୍ସ୍ୟଜୀବୀଙ୍କ ମାଛ ଧରିବା ଓ ନୌବିହାର",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଓଡ଼ିଶାର ଚିଲିକା ହ୍ରଦ ଓ ମହାନଦୀରେ ଡଙ୍ଗା ଯାତାୟାତର ଏକ ପ୍ରମୁଖ ମାଧ୍ୟମ ଅଟେ ।",
+        "ପ୍ରାଚୀନ ଓଡ଼ିଶାର ସାଧବ ପୁଅମାନେ ବୋଇତ (ବଡ଼ ନୌକା) ସାହାଯ୍ୟରେ ବିଦେଶକୁ ବାଣିଜ୍ୟ କରିବାକୁ ଯାଉଥିଲେ ।"
+      ]
+    }
+  },
+  {
+    "name": "Ship",
+    "category": "ଜଳପଥ ଯାନ",
+    "description": "large oceangoing vessel for transporting cargo or passengers across seas",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/jana-bahana/ship.jpg",
+    "odiaName": "ପୋତ / ଜଳଯାନ / ଜାହାଜ",
+    "descriptionOdia": "ସମୁଦ୍ର ଓ ମହାସାଗରରେ ବିପୁଳ ପରିମାଣର ସାମଗ୍ରୀ ଏବଂ ଯାତ୍ରୀ ପରିବହନ କରୁଥିବା ବିଶାଳ ଜଳଯାନ",
+    "details": {
+      "ଚାଳନା_ମାଧ୍ୟମ": "ଶକ୍ତିଶାଳୀ ଡିଜେଲ୍ ବା ଟର୍ବାଇନ୍ ଇଞ୍ଜିନ",
+      "ବ୍ୟବହାର": "ଆନ୍ତର୍ଜାତୀୟ ବାଣିଜ୍ୟ, ମାଲ ପରିବହନ ଓ ସମୁଦ୍ର ଯାତ୍ରା",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଓଡ଼ିଶାର ପାରାଦୀପ ବନ୍ଦର ଭାରତର ଅନ୍ୟତମ ପ୍ରମୁଖ ସାମୁଦ୍ରିକ ଜାହାଜ ବନ୍ଦର ଅଟେ ।",
+        "ବିଶ୍ୱର ପ୍ରାୟ ୮୦% ରୁ ଅଧିକ ଆନ୍ତର୍ଜାତୀୟ ବାଣିଜ୍ୟ ଜାହାଜ ମାଧ୍ୟମରେ ହୋଇଥାଏ ।"
+      ]
+    }
+  },
+  {
+    "name": "Submarine",
+    "category": "ଜଳପଥ ଯାନ",
+    "description": "watercraft capable of independent operation underwater",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/jana-bahana/submarine.jpg",
+    "odiaName": "ଅନ୍ତଃଜଳ ଯାନ / ନିମଜ୍ଜିତ ପୋତ / ବୁଡ଼ାଜାହାଜ",
+    "descriptionOdia": "ସମୁଦ୍ର ଜଳର ଗଭୀର ଭିତରେ ବୁଡ଼ି ରହି ଚଳାଚଳ କରିପାରୁଥିବା ବିଶେଷ ଜାହାଜ",
+    "details": {
+      "ଚାଳନା_ମାଧ୍ୟମ": "ଡିଜେଲ୍-ଇଲେକ୍ଟ୍ରିକ୍ ଇଞ୍ଜିନ ବା ପରମାଣୁ ଶକ୍ତି",
+      "ବ୍ୟବହାର": "ନୌସେନା ପ୍ରତିରକ୍ଷା, ସାମୁଦ୍ରିକ ଗବେଷଣା ଓ ଜଳତଳ ନିରୀକ୍ଷଣ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଜଳ ଭିତରୁ ଉପରର ଦୃଶ୍ୟ ଦେଖିବା ପାଇଁ ଏଥିରେ 'ପେରିସ୍କୋପ୍' ଯନ୍ତ୍ର ଲାଗିଥାଏ ।",
+        "ପରମାଣୁ ଶକ୍ତି ଚାଳିତ ବୁଡ଼ାଜାହାଜ ମାସ ମାସ ଧରି ପାଣି ଭିତରେ ରହିପାରେ ।"
+      ]
+    }
+  },
+  {
+    "name": "Motorboat",
+    "category": "ଜଳପଥ ଯାନ",
+    "description": "boat powered by an internal combustion or electric motor",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/jana-bahana/motorboat.jpg",
+    "odiaName": "ଯନ୍ତ୍ରଚାଳିତ ନୌକା / ମୋଟର ବୋଟ୍",
+    "descriptionOdia": "ଇଞ୍ଜିନ ସାହାଯ୍ୟରେ ଜଳରେ ଦ୍ରୁତ ବେଗରେ ଚାଲୁଥିବା ଡଙ୍ଗା",
+    "details": {
+      "ଚାଳନା_ମାଧ୍ୟମ": "ପେଟ୍ରୋଲ୍, ଡିଜେଲ୍ ବା ବୈଦ୍ୟୁତିକ ମୋଟର",
+      "ବ୍ୟବହାର": "ଦ୍ରୁତ ଜଳ ପରିବହନ, ପର୍ଯ୍ୟଟନ ଓ ବନ୍ୟା ସମୟରେ ଉଦ୍ଧାର କାର୍ଯ୍ୟ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଆହୁଲା ଡଙ୍ଗା ତୁଳନାରେ ଏହା ଖୁବ୍ କମ୍ ସମୟରେ ଅଧିକ ଦୂରତା ଅତିକ୍ରମ କରିପାରେ ।",
+        "ବନ୍ୟା ପ୍ରପୀଡ଼ିତ ଅଞ୍ଚଳରେ ରିଲିଫ୍ ଓ ଉଦ୍ଧାର କାର୍ଯ୍ୟ ପାଇଁ ଏହାର ବହୁଳ ବ୍ୟବହାର ହୁଏ ।"
+      ]
+    }
+  },
+  {
+    "name": "Raft",
+    "category": "ଜଳପଥ ଯାନ",
+    "description": "flat buoyant structure made of logs, bamboo, or inflatable tubes for floating on water",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/jana-bahana/raft.jpg",
+    "odiaName": "ଭେଳା",
+    "descriptionOdia": "କାଠ ଗଣ୍ଡି, ବାଉଁଶ ବା କଦଳୀ ଗଛକୁ ବାନ୍ଧି ତିଆରି କରାଯାଉଥିବା ଭାସମାନ ଜଳଯାନ",
+    "details": {
+      "ଚାଳନା_ମାଧ୍ୟମ": "ବାଉଁଶ ଲଗା ବା କାତ",
+      "ଉପାଦାନ": "ବାଉଁଶ, କାଠ ଗଣ୍ଡି, କଦଳୀ ପାଟୁଆ ବା ପବନ ଭର୍ତ୍ତି ରବର",
+      "ବ୍ୟବହାର": "ଗ୍ରାମାଞ୍ଚଳରେ ନଦୀ-ନାଳ ପାର ହେବା, ବନ୍ୟା ସମୟରେ ଯାତାୟାତ ଓ ଜଳକ୍ରୀଡ଼ା",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଏହା ସବୁଠାରୁ ସରଳ ଏବଂ ପ୍ରାଚୀନ ଭାସମାନ ଜଳଯାନ ଅଟେ ।",
+        "ଆଧୁନିକ ସମୟରେ ପର୍ଯ୍ୟଟନ କ୍ଷେତ୍ରରେ ରବର ଭେଳା ସାହାଯ୍ୟରେ 'ରିଭର ରାଫ୍ଟିଂ' କରାଯାଏ ।"
+      ]
+    }
+  },
+  {
+    "name": "Aeroplane",
+    "category": "ଆକାଶପଥ ଓ ମହାକାଶ ଯାନ",
+    "description": "powered fixed-wing aircraft propelled forward by thrust from jet engines or propellers",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/jana-bahana/aeroplane.jpg",
+    "odiaName": "ବିମାନ / ବାୟୁଯାନ / ଉଡ଼ାଜାହାଜ",
+    "descriptionOdia": "ଆକାଶମାର୍ଗରେ ଅତି ଦ୍ରୁତ ବେଗରେ ଯାତ୍ରୀ ଓ ମାଲ ପରିବହନ କରୁଥିବା ଡେଣାଯୁକ୍ତ ଯାନ",
+    "details": {
+      "ଚାଳନା_ମାଧ୍ୟମ": "ଜେଟ୍ ଇଞ୍ଜିନ ବା ପ୍ରପେଲର",
+      "ବ୍ୟବହାର": "ଦେଶବିଦେଶକୁ ଦ୍ରୁତ ଯାତ୍ରୀ ଓ ଜରୁରୀ ସାମଗ୍ରୀ ପରିବହନ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "୧୯୦୩ ମସିହାରେ ରାଇଟ୍ ଭ୍ରାତୃଦ୍ୱୟ ପ୍ରଥମ ସଫଳ ଉଡ଼ାଜାହାଜ ଉଡ଼ାଇଥିଲେ ।",
+        "ଏହା ସ୍ଥଳପଥ ଓ ଜଳପଥ ଯାନ ତୁଳନାରେ ସବୁଠାରୁ ଦ୍ରୁତତମ ପରିବହନ ମାଧ୍ୟମ ଅଟେ ।"
+      ]
+    }
+  },
+  {
+    "name": "Helicopter",
+    "category": "ଆକାଶପଥ ଓ ମହାକାଶ ଯାନ",
+    "description": "rotorcraft capable of vertical takeoff, landing, and hovering in mid-air",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/jana-bahana/helicopter.jpg",
+    "odiaName": "ଉଦଗ୍ର ବିମାନ / ଘୂର୍ଣ୍ଣିପକ୍ଷ ବିମାନ / ହେଲିକପ୍ଟର",
+    "descriptionOdia": "ଉପରେ ଘୂରୁଥିବା ବଡ଼ ପଙ୍ଖା ସାହାଯ୍ୟରେ ସିଧାସଳଖ ଉପରକୁ ଉଠିପାରୁଥିବା ଓ ଓହ୍ଲାଇପାରୁଥିବା ଯାନ",
+    "details": {
+      "ଚାଳନା_ମାଧ୍ୟମ": "ଟର୍ବୋସାଫ୍ଟ ଇଞ୍ଜିନ ଓ ଘୂର୍ଣ୍ଣାୟମାନ ରୋଟର୍ ବ୍ଲେଡ୍",
+      "ବ୍ୟବହାର": "ପ୍ରାକୃତିକ ବିପର୍ଯ୍ୟୟ ଉଦ୍ଧାର କାର୍ଯ୍ୟ, ଦୁର୍ଗମ ଅଞ୍ଚଳ ଯାତ୍ରା ଓ ସାମରିକ ସେବା",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଉଡ଼ାଜାହାଜ ଭଳି ଏଥିପାଇଁ ଲମ୍ବା ରନୱେ ଦରକାର ହୁଏ ନାହିଁ, ଏହା ଛୋଟ ଜାଗାରେ ଓହ୍ଲାଇପାରେ ।",
+        "ଏହା ଆକାଶରେ ଗୋଟିଏ ସ୍ଥାନରେ ସ୍ଥିର ହୋଇ ଭାସି ରହିପାରେ ।"
+      ]
+    }
+  },
+  {
+    "name": "Parachute",
+    "category": "ଆକାଶପଥ ଓ ମହାକାଶ ଯାନ",
+    "description": "fabric canopy designed to slow the descent of a person or object through the air",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/jana-bahana/parachute.jpg",
+    "odiaName": "ବାୟୁଛତା / ଅବତରଣ ଛତା",
+    "descriptionOdia": "ଆକାଶରୁ ସୁରକ୍ଷିତ ଭାବରେ ଧୀରେ ଧୀରେ ଭୂମିକୁ ଓହ୍ଲାଇବା ପାଇଁ ବ୍ୟବହୃତ ବଡ଼ କପଡ଼ା ଛତା",
+    "details": {
+      "ଚାଳନା_ମାଧ୍ୟମ": "ବାୟୁର ପ୍ରତିରୋଧ ଶକ୍ତି ",
+      "ଉପାଦାନ": "ଅତି ହାଲୁକା ଏବଂ ମଜବୁତ ନାଇଲନ୍ କପଡ଼ା",
+      "ବ୍ୟବହାର": "ଜରୁରୀକାଳୀନ ବିମାନ ଅବତରଣ, ସାମରିକ ଅଭିଯାନ ଓ ଆକାଶ କ୍ରୀଡ଼ା",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ପବନ ଭରିଯିବା ଫଳରେ ଏହା ଖୋଲିଯାଏ ଏବଂ ପତନ ବେଗକୁ ବହୁତ କମାଇ ଦିଏ ।",
+        "ମହାକାଶ ଯାନଗୁଡ଼ିକ ପୃଥିବୀକୁ ଫେରିବା ସମୟରେ ମଧ୍ୟ ବେଗ କମାଇବା ପାଇଁ ପାରାଚ୍ୟୁଟ୍ ବ୍ୟବହାର ହୁଏ ।"
+      ]
+    }
+  },
+  {
+    "name": "Hot Air Balloon",
+    "category": "ଆକାଶପଥ ଓ ମହାକାଶ ଯାନ",
+    "description": "lighter-than-air aircraft consisting of a large bag filled with heated air",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/jana-bahana/hot-air-balloon.jpg",
+    "odiaName": "ଉଷ୍ଣବାୟୁ ବେଲୁନ୍",
+    "descriptionOdia": "ଗରମ ପବନ ଭର୍ତ୍ତି ବିଶାଳ ବେଲୁନ୍ ସାହାଯ୍ୟରେ ଆକାଶରେ ଉଡ଼ୁଥିବା ଯାନ",
+    "details": {
+      "ଚାଳନା_ମାଧ୍ୟମ": "ଗ୍ୟାସ୍ ବର୍ଣ୍ଣର ଦ୍ୱାରା ଉତ୍ତପ୍ତ ବାୟୁ",
+      "ବ୍ୟବହାର": "ପର୍ଯ୍ୟଟନ, ଆକାଶ ଭ୍ରମଣ ଓ ପାଣିପାଗ ପର୍ଯ୍ୟବେକ୍ଷଣ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଗରମ ବାୟୁ ଥଣ୍ଡା ବାୟୁଠାରୁ ହାଲୁକା ହୋଇଥିବାରୁ ଏହା ବେଲୁନକୁ ଉପରକୁ ଉଠାଇଥାଏ ।",
+        "ଏହା ମାନବ ଇତିହାସର ସର୍ବପ୍ରଥମ ସଫଳ ଆକାଶଯାନ ଅଟେ (୧୭୮୩ ମସିହା) ।"
+      ]
+    }
+  },
+  {
+    "name": "Rocket",
+    "category": "ଆକାଶପଥ ଓ ମହାକାଶ ଯାନ",
+    "description": "powerful jet-propelled vehicle capable of escaping Earth's gravity into space",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/jana-bahana/rocket.jpg",
+    "odiaName": "ଅଗ୍ନିବାଣ / ମହାକାଶ ପ୍ରକ୍ଷେପଣ ଯାନ / ରକେଟ୍",
+    "descriptionOdia": "କୃତ୍ରିମ ଉପଗ୍ରହ ଓ ମହାକାଶ ଯାନକୁ ପୃଥିବୀର ମାଧ୍ୟାକର୍ଷଣ ବାହାରକୁ ପଠାଉଥିବା ଶକ୍ତିଶାଳୀ ଯାନ",
+    "details": {
+      "ଚାଳନା_ମାଧ୍ୟମ": "କଠିନ ବା ତରଳ ରକେଟ୍ ଇନ୍ଧନ",
+      "ବ୍ୟବହାର": "ଉପଗ୍ରହ ଉତକ୍ଷେପଣ ଓ ମହାକାଶ ଅଭିଯାନ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଏହା ନିଉଟନଙ୍କ ତୃତୀୟ ଗତି ନିୟମ (ପ୍ରତ୍ୟେକ କ୍ରିୟାର ସମାନ ଓ ବିପରୀତ ପ୍ରତିକ୍ରିୟା) ଆଧାରରେ କାର୍ଯ୍ୟ କରେ ।",
+        "ଭାରତୀୟ ମହାକାଶ ଗବେଷଣା ସଂସ୍ଥା (ISRO) ର PSLV ଏବଂ LVM3 ବିଶ୍ୱପ୍ରସିଦ୍ଧ ରକେଟ୍ ଅଟେ ।"
+      ]
+    }
+  },
+  {
+    "name": "Spaceship / Spacecraft",
+    "category": "ଆକାଶପଥ ଓ ମହାକାଶ ଯାନ",
+    "description": "vehicle designed for travel or operation in outer space",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/jana-bahana/spaceship-spacecraft.jpg",
+    "odiaName": "ମହାକାଶ ଯାନ / ଅନ୍ତରୀକ୍ଷ ଯାନ",
+    "descriptionOdia": "ପୃଥିବୀର ବାୟୁମଣ୍ଡଳ ବାହାରେ ମହାକାଶରେ ଭ୍ରମଣ ଓ ଗବେଷଣା ପାଇଁ ନିର୍ମିତ ଯାନ",
+    "details": {
+      "ଚାଳନା_ମାଧ୍ୟମ": "ରକେଟ୍ ପ୍ରପଲସନ୍ ଓ ସୌର ଶକ୍ତି",
+      "ବ୍ୟବହାର": "ମହାକାଶ ଗବେଷଣା, ଚନ୍ଦ୍ର ଓ ମଙ୍ଗଳ ଗ୍ରହ ଅଭିଯାନ",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଭାରତର 'ଚନ୍ଦ୍ରଯାନ-୩' ଏବଂ 'ଆଦିତ୍ୟ-ଏଲ୧' ସଫଳ ମହାକାଶ ଯାନର ଉଦାହରଣ ଅଟେ ।",
+        "ମହାକାଶରେ ବାୟୁ ନଥିବାରୁ ଏହା ବିଶେଷ ଅମ୍ଳଜାନ ଓ ଇନ୍ଧନ ବ୍ୟବସ୍ଥା ସହିତ କାର୍ଯ୍ୟ କରେ ।"
+      ]
+    }
+  }
+]
