@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "maintenanceMode": false,
   "maintenanceMessage": "ସର୍ଭର ମେଣ୍ଟେନାନ୍ସ ଚାଲିଛି, ଦୟାକରି କିଛି ସମୟ ପରେ ଚେଷ୍ଟା କରନ୍ତୁ।",
   "hiddenTabs": [],
@@ -22,6 +22,13 @@
       "id": "gadi-ebom-sadaka",
       "title": "ଗାଡ଼ି ଓ ସଡ଼କ",
       "url": "https://imsbg.github.io/asa-janiba-data/gadi-ebom-sadaka.json",
+      "isNew": true,
+      "tag": "ନୂତନ"
+    },
+        {
+      "id": "jana-bahana",
+      "title": "ଯାନବାହନ",
+      "url": "https://imsbg.github.io/asa-janiba-data/jana-bahana.json",
       "isNew": true,
       "tag": "ନୂତନ"
     }
