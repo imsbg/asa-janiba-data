@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "maintenanceMode": false,
   "maintenanceMessage": "ସର୍ଭର ମେଣ୍ଟେନାନ୍ସ ଚାଲିଛି, ଦୟାକରି କିଛି ସମୟ ପରେ ଚେଷ୍ଟା କରନ୍ତୁ।",
   "hiddenTabs": [],
@@ -22,7 +22,7 @@
       "id": "gadi-ebom-sadaka",
       "title": "ଗାଡ଼ି ଓ ସଡ଼କ",
       "url": "https://imsbg.github.io/asa-janiba-data/gadi-ebom-sadaka.json",
-      "isNew": true,
+      "isNew": false,
       "tag": ""
     },
         {
