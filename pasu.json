@@ -1,0 +1,731 @@
+[
+  {
+    "version": 2,
+    "name": "Tiger",
+    "scientificName": "panthera tigris",
+    "category": "ବନ୍ୟ ପଶୁ",
+    "description": "the largest striped big cat and India's national animal",
+    "conservationStatus": "ବିପଦାପନ୍ନ ପ୍ରଜାତି",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/pasu/tiger.jpg",
+    "odiaName": "ବାଘ",
+    "descriptionOdia": "ଭାରତର ଜାତୀୟ ପଶୁ ଏବଂ ଶକ୍ତିଶାଳୀ ବନ୍ୟ ପ୍ରାଣୀ",
+    "details": {
+      "ବାସସ୍ଥାନ": "ଘଞ୍ଚ ଜଙ୍ଗଲ ଓ ତୃଣଭୂମି",
+      "ଖାଦ୍ୟ": "ମାଂସ",
+      "ଆୟୁଷ": "ପ୍ରାୟ ୧୦ରୁ ୧୫ ବର୍ଷ",
+      "ଓଜନ": "ପ୍ରାୟ ୧୮୦ରୁ ୨୬୦ କିଲୋଗ୍ରାମ",
+      "ଶରୀରର_ରଙ୍ଗ": "ହଳଦିଆ-କମଳା ଦେହରେ କଳା ପଟି",
+      "ସ୍ୱଭାବ": "ବାଘ ଏକୁଟିଆ ରହିବାକୁ ଓ ଶିକାର କରିବାକୁ ପସନ୍ଦ କରେ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ମହାବଳ ବାଘ ହେଉଛି ଭାରତର ଜାତୀୟ ପଶୁ ।",
+        "ପ୍ରତ୍ୟେକ ବାଘର ଶରୀରର ପଟି ଚିହ୍ନ ଭିନ୍ନ ଭିନ୍ନ ହୋଇଥାଏ ।",
+        "ବାଘ ବହୁତ ଭଲ ପହଁରି ପାରେ ।"
+      ]
+    }
+  },
+  {
+    "name": "Lion",
+    "scientificName": "panthera leo",
+    "category": "ବନ୍ୟ ପଶୁ",
+    "description": "the social big cat known as the king of the jungle",
+    "conservationStatus": "ବିପଦାପନ୍ନ ପ୍ରଜାତି",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/pasu/lion.jpg",
+    "odiaName": "ସିଂହ",
+    "descriptionOdia": "ଜଙ୍ଗଲର ରାଜା ଭାବରେ ପରିଚିତ ଶକ୍ତିଶାଳୀ ବଡ଼ ବିରାଡ଼ି",
+    "details": {
+      "ବାସସ୍ଥାନ": "ଜଙ୍ଗଲ ଓ ଘାସଭରା ପଡ଼ିଆ",
+      "ଖାଦ୍ୟ": "ମାଂସ",
+      "ଆୟୁଷ": "ପ୍ରାୟ ୧୦ରୁ ୧୫ ବର୍ଷ",
+      "ଓଜନ": "ପ୍ରାୟ ୧୨୦ରୁ ୨୫୦ କିଲୋଗ୍ରାମ",
+      "ଶରୀରର_ରଙ୍ଗ": "ହଳଦିଆ ଓ ବାଦାମୀ",
+      "ସ୍ୱଭାବ": "ସିଂହ ଦଳବଦ୍ଧ ହୋଇ ରହିବାକୁ ପସନ୍ଦ କରେ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ସିଂହକୁ ଜଙ୍ଗଲର ରାଜା କୁହାଯାଏ ।",
+        "ଅଣ୍ଡିରା ସିଂହର ବେକରେ ଘଞ୍ଚ କେଶର (ବାଳ) ଥାଏ ।",
+        "ସିଂହର ଗର୍ଜନ ବହୁତ ଦୂର ପର୍ଯ୍ୟନ୍ତ ଶୁଣାଯାଏ ।"
+      ]
+    }
+  },
+  {
+    "name": "Leopard",
+    "scientificName": "panthera pardus",
+    "category": "ବନ୍ୟ ପଶୁ",
+    "description": "agile spotted big cat skilled at climbing trees",
+    "conservationStatus": "ଅସୁରକ୍ଷିତ ପ୍ରଜାତି",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/pasu/leopard.jpg",
+    "odiaName": "କଲରାପତରିଆ ବାଘ",
+    "descriptionOdia": "ଗଛ ଚଢ଼ିବାରେ ଅତ୍ୟନ୍ତ ଦକ୍ଷ ଏବଂ ଚିତ୍ରିତ ଶରୀର ବିଶିଷ୍ଟ ବାଘ",
+    "details": {
+      "ବାସସ୍ଥାନ": "ଜଙ୍ଗଲ ଓ ପାହାଡ଼ିଆ ଅଞ୍ଚଳ",
+      "ଖାଦ୍ୟ": "ମାଂସ",
+      "ଆୟୁଷ": "ପ୍ରାୟ ୧୨ରୁ ୧୭ ବର୍ଷ",
+      "ଓଜନ": "ପ୍ରାୟ ୪୦ରୁ ୭୦ କିଲୋଗ୍ରାମ",
+      "ଶରୀରର_ରଙ୍ଗ": "ହଳଦିଆ ଦେହରେ କଳା ଫୁଲ ଭଳି ଚିହ୍ନ",
+      "ସ୍ୱଭାବ": "ଏହା ବହୁତ ଚଞ୍ଚଳ ଏବଂ ରାତିରେ ଶିକାର କରିବାକୁ ପସନ୍ଦ କରେ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "କଲରାପତରିଆ ବାଘ ସହଜରେ ଗଛ ଉପରକୁ ଚଢ଼ିପାରେ ।",
+        "ଏହା ଶିକାରକୁ ଧରି ଗଛ ଡାଳ ଉପରେ ରଖିଥାଏ ।"
+      ]
+    }
+  },
+  {
+    "name": "Cheetah",
+    "scientificName": "acinonyx jubatus",
+    "category": "ବନ୍ୟ ପଶୁ",
+    "description": "the fastest land animal on Earth",
+    "conservationStatus": "ଅସୁରକ୍ଷିତ ପ୍ରଜାତି",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/pasu/cheetah.jpg",
+    "odiaName": "ଚିତାବାଘ",
+    "descriptionOdia": "ପୃଥିବୀର ସବୁଠାରୁ ଦ୍ରୁତଗାମୀ ସ୍ଥଳଚର ପ୍ରାଣୀ",
+    "details": {
+      "ବାସସ୍ଥାନ": "ଖୋଲା ଘାସପଡ଼ିଆ ଓ ଜଙ୍ଗଲ",
+      "ଖାଦ୍ୟ": "ମାଂସ",
+      "ଆୟୁଷ": "ପ୍ରାୟ ୧୦ରୁ ୧୨ ବର୍ଷ",
+      "ଓଜନ": "ପ୍ରାୟ ୩୫ରୁ ୬୫ କିଲୋଗ୍ରାମ",
+      "ଶରୀରର_ରଙ୍ଗ": "ହଳଦିଆ ଦେହରେ ଗୋଲ କଳା ବିନ୍ଦୁ",
+      "ସ୍ୱଭାବ": "ଏହା ଦିନ ବେଳା ଶିକାର କରେ ଏବଂ ବହୁତ ଜୋରରେ ଦୌଡ଼ିପାରେ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଚିତାବାଘ ଘଣ୍ଟା ପ୍ରତି ପ୍ରାୟ ୧୧୦ କିଲୋମିଟର ବେଗରେ ଦୌଡ଼ିପାରେ ।",
+        "ଏହାର ଆଖି ତଳୁ ପାଟି ପର୍ଯ୍ୟନ୍ତ କଳା ଗାର ଥାଏ ।"
+      ]
+    }
+  },
+  {
+    "name": "Elephant",
+    "scientificName": "elephas maximus",
+    "category": "ବନ୍ୟ ପଶୁ",
+    "description": "the largest land mammal with a long trunk and tusks",
+    "conservationStatus": "ବିପଦାପନ୍ନ ପ୍ରଜାତି",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/pasu/elephant.jpg",
+    "odiaName": "ହାତୀ",
+    "descriptionOdia": "ଲମ୍ବା ଶୁଣ୍ଢ ଓ ବଡ଼ କାନ ଥିବା ସବୁଠାରୁ ବଡ଼ ସ୍ଥଳଚର ପ୍ରାଣୀ",
+    "details": {
+      "ବାସସ୍ଥାନ": "ଘଞ୍ଚ ଜଙ୍ଗଲ",
+      "ଖାଦ୍ୟ": "ଶାକାହାରୀ (ଘାସ, ପତ୍ର, ଫଳ ଓ ବାଉଁଶ)",
+      "ଆୟୁଷ": "ପ୍ରାୟ ୬୦ରୁ ୭୦ ବର୍ଷ",
+      "ଓଜନ": "ପ୍ରାୟ ୩,୦୦୦ରୁ ୫,୦୦୦ କିଲୋଗ୍ରାମ",
+      "ଶରୀରର_ରଙ୍ଗ": "ଧୂସର ଓ କଳା",
+      "ସ୍ୱଭାବ": "ହାତୀ ଅତି ବୁଦ୍ଧିମାନ ଏବଂ ଦଳବଦ୍ଧ ହୋଇ ରହିବାକୁ ଭଲ ପାଏ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ହାତୀ ହେଉଛି ସ୍ଥଳଭାଗର ସବୁଠାରୁ ବଡ଼ ପ୍ରାଣୀ ।",
+        "ଏହା ନିଜ ଶୁଣ୍ଢ ସାହାଯ୍ୟରେ ପାଣି ପିଏ ଓ ଭାରୀ ଜିନିଷ ଉଠାଏ ।"
+      ]
+    }
+  },
+  {
+    "name": "Bear",
+    "scientificName": "melursus ursinus",
+    "category": "ବନ୍ୟ ପଶୁ",
+    "description": "furry forest mammal fond of honey, fruits, and termites",
+    "conservationStatus": "ଅସୁରକ୍ଷିତ ପ୍ରଜାତି",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/pasu/bear.jpg",
+    "odiaName": "ଭାଲୁ",
+    "descriptionOdia": "ଘଞ୍ଚ ଲୋମଯୁକ୍ତ ଶରୀର ଓ ମହୁ ଖାଇବାକୁ ଭଲ ପାଉଥିବା ବନ୍ୟ ପଶୁ",
+    "details": {
+      "ବାସସ୍ଥାନ": "ଜଙ୍ଗଲ ଓ ପାହାଡ଼ ଗୁମ୍ଫା",
+      "ଖାଦ୍ୟ": "ସର୍ବଭକ୍ଷୀ (ଫଳ, ମହୁ, ପୋକଜୋକ ଓ ଉଇ)",
+      "ଆୟୁଷ": "ପ୍ରାୟ ୨୦ରୁ ୨୫ ବର୍ଷ",
+      "ଓଜନ": "ପ୍ରାୟ ୮୦ରୁ ୧୪୦ କିଲୋଗ୍ରାମ",
+      "ଶରୀରର_ରଙ୍ଗ": "କଳା (ଛାତିରେ ଧଳା ଚିହ୍ନ ଥାଏ)",
+      "ସ୍ୱଭାବ": "ଏହାର ଘ୍ରାଣ ଶକ୍ତି ବହୁତ ପ୍ରଖର ଏବଂ ଏହା ଗଛ ଚଢ଼ିପାରେ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଭାଲୁକୁ ମହୁ ଖାଇବା ବହୁତ ପସନ୍ଦ ।",
+        "ଏହାର ନଖ ବହୁତ ଲମ୍ବା ଓ ଶକ୍ତ ହୋଇଥାଏ ।"
+      ]
+    }
+  },
+  {
+    "name": "Deer",
+    "scientificName": "axis axis",
+    "category": "ବନ୍ୟ ପଶୁ",
+    "description": "graceful herbivorous forest animal with branched antlers",
+    "conservationStatus": "ସୁରକ୍ଷିତ ପ୍ରଜାତି",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/pasu/deer.jpg",
+    "odiaName": "ହରିଣ",
+    "descriptionOdia": "ସୁନ୍ଦର ଶିଙ୍ଗ ଓ ଚଞ୍ଚଳ ସ୍ୱଭାବ ଥିବା ତୃଣଭୋଜୀ ବନ୍ୟ ପ୍ରାଣୀ",
+    "details": {
+      "ବାସସ୍ଥାନ": "ଜଙ୍ଗଲ ଓ ଘାସପଡ଼ିଆ",
+      "ଖାଦ୍ୟ": "ଶାକାହାରୀ (ଘାସ, କଅଁଳ ପତ୍ର ଓ ଫଳ)",
+      "ଆୟୁଷ": "ପ୍ରାୟ ୧୦ରୁ ୧୫ ବର୍ଷ",
+      "ଓଜନ": "ପ୍ରାୟ ୫୦ରୁ ୮୫ କିଲୋଗ୍ରାମ",
+      "ଶରୀରର_ରଙ୍ଗ": "ବାଦାମୀ ଦେହରେ ଧଳା ଚିତା",
+      "ସ୍ୱଭାବ": "ହରିଣ ବହୁତ ଶାନ୍ତ, ଭୀରୁ ଓ ଚଞ୍ଚଳ ସ୍ୱଭାବର ପ୍ରାଣୀ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "କେବଳ ଅଣ୍ଡିରା ହରିଣର ମୁଣ୍ଡରେ ଶାଖାଯୁକ୍ତ ଶିଙ୍ଗ ଥାଏ ।",
+        "ବିପଦ ଦେଖିଲେ ହରିଣ ବହୁତ ଜୋରରେ ଡିଆଁ ମାରି ଦୌଡ଼ିପାରେ ।"
+      ]
+    }
+  },
+  {
+    "name": "Wolf",
+    "scientificName": "canis lupus",
+    "category": "ବନ୍ୟ ପଶୁ",
+    "description": "wild pack-hunting canine ancestor of the domestic dog",
+    "conservationStatus": "ସୁରକ୍ଷିତ ପ୍ରଜାତି",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/pasu/wolf.jpg",
+    "odiaName": "ଗଧିଆ",
+    "descriptionOdia": "ଦଳବଦ୍ଧ ହୋଇ ଶିକାର କରୁଥିବା ବୁଦ୍ଧିମାନ ବନ୍ୟ ପ୍ରାଣୀ",
+    "details": {
+      "ବାସସ୍ଥାନ": "ଜଙ୍ଗଲ ଓ ଖୋଲା ପଡ଼ିଆ",
+      "ଖାଦ୍ୟ": "ମାଂସ",
+      "ଆୟୁଷ": "ପ୍ରାୟ ୮ରୁ ୧୩ ବର୍ଷ",
+      "ଓଜନ": "ପ୍ରାୟ ୨୦ରୁ ୩୫ କିଲୋଗ୍ରାମ",
+      "ଶରୀରର_ରଙ୍ଗ": "ଧୂସର ଓ ବାଦାମୀ",
+      "ସ୍ୱଭାବ": "ଗଧିଆ ସର୍ବଦା ଦଳ ହୋଇ ରହିବାକୁ ଓ ଶିକାର କରିବାକୁ ପସନ୍ଦ କରେ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଗଧିଆମାନେ ରାତିରେ ଉଚ୍ଚ ସ୍ୱରରେ ଡାକି ପରସ୍ପରକୁ ସଙ୍କେତ ଦିଅନ୍ତି ।",
+        "ଏମାନେ ବହୁତ ଦୂର ପର୍ଯ୍ୟନ୍ତ ନ ଥକି ଦୌଡ଼ିପାରନ୍ତି ।"
+      ]
+    }
+  },
+  {
+    "name": "Jackal",
+    "scientificName": "canis aureus",
+    "category": "ବନ୍ୟ ପଶୁ",
+    "description": "medium-sized clever wild canine active mostly at dusk and night",
+    "conservationStatus": "ସୁରକ୍ଷିତ ପ୍ରଜାତି",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/pasu/jackal.jpg",
+    "odiaName": "ବିଲୁଆ",
+    "descriptionOdia": "ସନ୍ଧ୍ୟା ଓ ରାତି ସମୟରେ ହୁକେହୋ ଡାକ ଦେଉଥିବା ଚତୁର ପ୍ରାଣୀ",
+    "details": {
+      "ବାସସ୍ଥାନ": "ଜଙ୍ଗଲ ଓ ଗାଁ ପାଖ ବୁଦାଳିଆ ଅଞ୍ଚଳ",
+      "ଖାଦ୍ୟ": "ସର୍ବଭକ୍ଷୀ (ଛୋଟ ଜୀବ, ଫଳ ଓ ପୋକ)",
+      "ଆୟୁଷ": "ପ୍ରାୟ ୮ରୁ ୧୦ ବର୍ଷ",
+      "ଓଜନ": "ପ୍ରାୟ ୮ରୁ ୧୫ କିଲୋଗ୍ରାମ",
+      "ଶରୀରର_ରଙ୍ଗ": "ସୁନେଲି-ବାଦାମୀ ଓ ଧୂସର",
+      "ସ୍ୱଭାବ": "ବିଲୁଆ ବହୁତ ଚତୁର ଏବଂ ରାତିରେ ଖାଦ୍ୟ ଅନ୍ୱେଷଣରେ ବାହାରେ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ସନ୍ଧ୍ୟା ହେଲେ ବିଲୁଆମାନେ ଏକାଠି ହୋଇ 'ହୁକେହୋ' ଶବ୍ଦ କରି ଡାକନ୍ତି ।",
+        "ଏହା ପରିବେଶକୁ ସଫା ରଖିବାରେ ସାହାଯ୍ୟ କରେ ।"
+      ]
+    }
+  },
+  {
+    "name": "Fox",
+    "scientificName": "vulpes bengalensis",
+    "category": "ବନ୍ୟ ପଶୁ",
+    "description": "small bushy-tailed wild canine famous in stories for its cleverness",
+    "conservationStatus": "ସୁରକ୍ଷିତ ପ୍ରଜାତି",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/pasu/fox.jpg",
+    "odiaName": "କୋକିଶିଆଳି",
+    "descriptionOdia": "ଲମ୍ବା ଲୋମଯୁକ୍ତ ଲାଞ୍ଜ ଥିବା ଅତି ଚତୁର ଛୋଟ ବନ୍ୟ ପ୍ରାଣୀ",
+    "details": {
+      "ବାସସ୍ଥାନ": "ବୁଦାଳିଆ ଜଙ୍ଗଲ ଓ ପଡ଼ିଆ",
+      "ଖାଦ୍ୟ": "ସର୍ବଭକ୍ଷୀ (ମୂଷା, ପୋକ, ପକ୍ଷୀ ଓ ଫଳ)",
+      "ଆୟୁଷ": "ପ୍ରାୟ ୬ରୁ ୮ ବର୍ଷ",
+      "ଓଜନ": "ପ୍ରାୟ ୨ରୁ ୪ କିଲୋଗ୍ରାମ",
+      "ଶରୀରର_ରଙ୍ଗ": "ଧୂସର-ବାଦାମୀ (ଲାଞ୍ଜ ଅଗ୍ରଭାଗ କଳା)",
+      "ସ୍ୱଭାବ": "ଏହା ଅତ୍ୟନ୍ତ ଚତୁର ଓ ସତର୍କ ସ୍ୱଭାବର ପ୍ରାଣୀ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ପିଲାମାନଙ୍କ ଗପ ବହିରେ କୋକିଶିଆଳିକୁ ସବୁଠାରୁ ଚତୁର ପ୍ରାଣୀ ଭାବେ ବର୍ଣ୍ଣନା କରାଯାଏ ।",
+        "ଏହା ମାଟିରେ ଗାତ ଖୋଳି ରହିଥାଏ ।"
+      ]
+    }
+  },
+  {
+    "name": "Hyena",
+    "scientificName": "hyaena hyaena",
+    "category": "ବନ୍ୟ ପଶୁ",
+    "description": "nocturnal scavenger with powerful jaws and striped coat",
+    "conservationStatus": "ସୁରକ୍ଷିତ ପ୍ରଜାତି",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/pasu/hyena.jpg",
+    "odiaName": "ହେଟାବାଘ",
+    "descriptionOdia": "ଶକ୍ତ ମାଢ଼ି ଓ ପଟିଦାର ଶରୀର ଥିବା ନିଶାଚର ବନ୍ୟ ପ୍ରାଣୀ",
+    "details": {
+      "ବାସସ୍ଥାନ": "ଶୁଷ୍କ ଜଙ୍ଗଲ ଓ ପାହାଡ଼ିଆ ଅଞ୍ଚଳ",
+      "ଖାଦ୍ୟ": "ମାଂସ",
+      "ଆୟୁଷ": "ପ୍ରାୟ ୧୨ରୁ ୧୫ ବର୍ଷ",
+      "ଓଜନ": "ପ୍ରାୟ ୨୫ରୁ ୪୫ କିଲୋଗ୍ରାମ",
+      "ଶରୀରର_ରଙ୍ଗ": "ଧୂସର ଦେହରେ କଳା ପଟି",
+      "ସ୍ୱଭାବ": "ଏହା ରାତିରେ ବାହାରେ ଏବଂ ଏହାର ଦାନ୍ତ ଓ ମାଢ଼ି ବହୁତ ଶକ୍ତ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ହେଟାବାଘର ଆଗ ଗୋଡ଼ ଦୁଇଟି ପଛ ଗୋଡ଼ ଅପେକ୍ଷା ଟିକେ ଲମ୍ବା ହୋଇଥାଏ ।",
+        "ଏହା ମୃତ ପ୍ରାଣୀଙ୍କୁ ଖାଇ ଜଙ୍ଗଲ ପରିଷ୍କାର ରଖେ ।"
+      ]
+    }
+  },
+  {
+    "name": "Rhinoceros",
+    "scientificName": "rhinoceros unicornis",
+    "category": "ବନ୍ୟ ପଶୁ",
+    "description": "heavy thick-skinned herbivore with a single horn on its snout",
+    "conservationStatus": "ଅସୁରକ୍ଷିତ ପ୍ରଜାତି",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/pasu/rhinoceros.jpg",
+    "odiaName": "ଗଣ୍ଡା",
+    "descriptionOdia": "ନାକ ଉପରେ ଶିଙ୍ଗ ଓ ମୋଟା ଚମଡ଼ା ଥିବା ବିଶାଳକାୟ ତୃଣଭୋଜୀ ପ୍ରାଣୀ",
+    "details": {
+      "ବାସସ୍ଥାନ": "ଘାସଭରା ଜଙ୍ଗଲ ଓ ସନ୍ତସନ୍ତିଆ ଅଞ୍ଚଳ",
+      "ଖାଦ୍ୟ": "ଶାକାହାରୀ (ଘାସ, ପତ୍ର ଓ ଜଳଜ ଉଦ୍ଭିଦ)",
+      "ଆୟୁଷ": "ପ୍ରାୟ ୩୫ରୁ ୪୫ ବର୍ଷ",
+      "ଓଜନ": "ପ୍ରାୟ ୧,୮୦୦ରୁ ୨,୨୦୦ କିଲୋଗ୍ରାମ",
+      "ଶରୀରର_ରଙ୍ଗ": "ଗାଢ଼ ଧୂସର-ବାଦାମୀ",
+      "ସ୍ୱଭାବ": "ଏହା ଶାନ୍ତ ସ୍ୱଭାବର କିନ୍ତୁ ରାଗିଲେ ବହୁତ ଭୟଙ୍କର ହୋଇଯାଏ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଭାରତୀୟ ଗଣ୍ଡାର ନାକ ଉପରେ ଗୋଟିଏ ଶିଙ୍ଗ ଥାଏ ।",
+        "ଆସାମର କାଜିରଙ୍ଗା ଜାତୀୟ ଉଦ୍ୟାନ ଏକଶିଙ୍ଗିଆ ଗଣ୍ଡା ପାଇଁ ପ୍ରସିଦ୍ଧ ।"
+      ]
+    }
+  },
+  {
+    "name": "Bison",
+    "scientificName": "bos gaurus",
+    "category": "ବନ୍ୟ ପଶୁ",
+    "description": "the largest wild cattle species native to Indian forests",
+    "conservationStatus": "ଅସୁରକ୍ଷିତ ପ୍ରଜାତି",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/pasu/bison.jpg",
+    "odiaName": "ଗୟଳ",
+    "descriptionOdia": "ଜଙ୍ଗଲରେ ବାସ କରୁଥିବା ବିଶାଳ ଓ ଶକ୍ତିଶାଳୀ ବନ୍ୟ ଗୋଜାତୀୟ ପ୍ରାଣୀ",
+    "details": {
+      "ବାସସ୍ଥାନ": "ଘଞ୍ଚ ଜଙ୍ଗଲ ଓ ପାହାଡ଼ିଆ ଅଞ୍ଚଳ",
+      "ଖାଦ୍ୟ": "ଶାକାହାରୀ (ଘାସ, ବାଉଁଶ ପତ୍ର ଓ ଲତା)",
+      "ଆୟୁଷ": "ପ୍ରାୟ ୨୦ରୁ ୨୫ ବର୍ଷ",
+      "ଓଜନ": "ପ୍ରାୟ ୬୦୦ରୁ ୧,୦୦୦ କିଲୋଗ୍ରାମ",
+      "ଶରୀରର_ରଙ୍ଗ": "ଗାଢ଼ କଳା-ବାଦାମୀ (ଗୋଡ଼ ତଳ ଭାଗ ଧଳା)",
+      "ସ୍ୱଭାବ": "ଗୟଳ ଦଳବଦ୍ଧ ହୋଇ ଚରନ୍ତି ଏବଂ ଶାନ୍ତ ସ୍ୱଭାବର ଅଟନ୍ତି ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଗୟଳ ହେଉଛି ବିଶ୍ୱର ସବୁଠାରୁ ବଡ଼ ବନ୍ୟ ଗୋଜାତୀୟ ପ୍ରାଣୀ ।",
+        "ଓଡ଼ିଶାର ଶିମିଳିପାଳ ଓ ସାତକୋଶିଆ ଜଙ୍ଗଲରେ ଗୟଳ ଦେଖାଯାଆନ୍ତି ।"
+      ]
+    }
+  },
+  {
+    "name": "Wild Boar",
+    "scientificName": "sus scrofa",
+    "category": "ବନ୍ୟ ପଶୁ",
+    "description": "sturdy forest-dwelling wild pig with sharp tusks",
+    "conservationStatus": "ସୁରକ୍ଷିତ ପ୍ରଜାତି",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/pasu/wild-boar.jpg",
+    "odiaName": "ବାରହା",
+    "descriptionOdia": "ତୀକ୍ଷ୍ଣ ଦାନ୍ତ ଓ ଶକ୍ତ ଶରୀର ଥିବା ବଣୁଆ ଘୁଷୁରି",
+    "details": {
+      "ବାସସ୍ଥାନ": "ଜଙ୍ଗଲ ଓ ବୁଦାଳିଆ ଅଞ୍ଚଳ",
+      "ଖାଦ୍ୟ": "ସର୍ବଭକ୍ଷୀ (କନ୍ଦମୂଳ, ଫଳ, ଶସ୍ୟ ଓ ପୋକ)",
+      "ଆୟୁଷ": "ପ୍ରାୟ ୧୦ରୁ ୧୪ ବର୍ଷ",
+      "ଓଜନ": "ପ୍ରାୟ ୫୦ରୁ ୯୦ କିଲୋଗ୍ରାମ",
+      "ଶରୀରର_ରଙ୍ଗ": "କଳା ଓ ଗାଢ଼ ଧୂସର",
+      "ସ୍ୱଭାବ": "ଏହା ନିଜ ଥୋମଣି ସାହାଯ୍ୟରେ ମାଟି ଖୋଳି କନ୍ଦମୂଳ ଖାଏ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଅଣ୍ଡିରା ବାରହାର ପାଟିର ଦୁଇ ପାର୍ଶ୍ୱରେ ଦୁଇଟି ବଙ୍କା ଦାନ୍ତ ବାହାରିଥାଏ ।",
+        "ଏହା ବହୁତ ଜୋରରେ ଦୌଡ଼ିପାରେ ।"
+      ]
+    }
+  },
+  {
+    "name": "Porcupine",
+    "scientificName": "hystrix indica",
+    "category": "ବନ୍ୟ ପଶୁ",
+    "description": "nocturnal rodent covered with sharp defensive quills",
+    "conservationStatus": "ସୁରକ୍ଷିତ ପ୍ରଜାତି",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/pasu/porcupine.jpg",
+    "odiaName": "ଝିଙ୍କ",
+    "descriptionOdia": "ଶରୀର ସାରା ଲମ୍ବା ଓ ମୁନିଆ କଣ୍ଟା ଥିବା ନିଶାଚର ପ୍ରାଣୀ",
+    "details": {
+      "ବାସସ୍ଥାନ": "ଜଙ୍ଗଲ ଓ ପାହାଡ଼ିଆ ଗାତ",
+      "ଖାଦ୍ୟ": "ଶାକାହାରୀ (ଫଳ, କନ୍ଦମୂଳ, ଗଛର ଛାଲ ଓ ଶସ୍ୟ)",
+      "ଆୟୁଷ": "ପ୍ରାୟ ୧୨ରୁ ୧୫ ବର୍ଷ",
+      "ଓଜନ": "ପ୍ରାୟ ୧୦ରୁ ୧୮ କିଲୋଗ୍ରାମ",
+      "ଶରୀରର_ରଙ୍ଗ": "କଳା ଓ ଧଳା ରଙ୍ଗର ଲମ୍ବା କଣ୍ଟା",
+      "ସ୍ୱଭାବ": "ବିପଦ ଦେଖିଲେ ଏହା ନିଜ ଶରୀରର କଣ୍ଟାଗୁଡ଼ିକୁ ଫୁଲାଇ ଆତ୍ମରକ୍ଷା କରେ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଝିଙ୍କର କଣ୍ଟାଗୁଡ଼ିକ ଅତ୍ୟନ୍ତ ତୀକ୍ଷ୍ଣ, ଯାହା ଶିକାରୀଙ୍କଠାରୁ ଏହାକୁ ରକ୍ଷା କରେ ।",
+        "ଏହା ରାତିରେ ଖାଦ୍ୟ ଖୋଜିବାକୁ ବାହାରେ ।"
+      ]
+    }
+  },
+  {
+    "name": "Mongoose",
+    "scientificName": "urva edwardsii",
+    "category": "ବନ୍ୟ ପଶୁ",
+    "description": "nimble small carnivore famous for fighting venomous snakes",
+    "conservationStatus": "ସୁରକ୍ଷିତ ପ୍ରଜାତି",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/pasu/mongoose.jpg",
+    "odiaName": "ନେଉଳ",
+    "descriptionOdia": "ବିଷଧର ସାପ ସହିତ ଲଢ଼ିପାରୁଥିବା ଅତି ଚଞ୍ଚଳ ଛୋଟ ପ୍ରାଣୀ",
+    "details": {
+      "ବାସସ୍ଥାନ": "ବୁଦାଳିଆ ଅଞ୍ଚଳ, କ୍ଷେତ ଓ ଜଙ୍ଗଲ",
+      "ଖାଦ୍ୟ": "ମାଂସ (ସାପ, ମୂଷା, ବେଙ୍ଗ ଓ ପୋକ)",
+      "ଆୟୁଷ": "ପ୍ରାୟ ୭ରୁ ୧୦ ବର୍ଷ",
+      "ଓଜନ": "ପ୍ରାୟ ୧ରୁ ୨ କିଲୋଗ୍ରାମ",
+      "ଶରୀରର_ରଙ୍ଗ": "ଧୂସର-ବାଦାମୀ",
+      "ସ୍ୱଭାବ": "ନେଉଳ ବହୁତ ସାହସୀ ଓ କ୍ଷିପ୍ର ଗତିରେ ଗତି କରିପାରେ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ନେଉଳ ନାଗ ସାପ ଭଳି ବିଷଧର ସାପକୁ ମଧ୍ୟ ପରାସ୍ତ କରିପାରେ ।",
+        "ଏହା ମୂଷା ଓ ପୋକ ଖାଇ ଚାଷୀମାନଙ୍କର ଉପକାର କରେ ।"
+      ]
+    }
+  },
+  {
+    "name": "Rabbit / Hare",
+    "scientificName": "lepus nigricollis",
+    "category": "ବନ୍ୟ ପଶୁ",
+    "description": "small fast-running mammal with long ears and fluffy tail",
+    "conservationStatus": "ସୁରକ୍ଷିତ ପ୍ରଜାତି",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/pasu/rabbit-hare.jpg",
+    "odiaName": "ଠେକୁଆ",
+    "descriptionOdia": "ଲମ୍ବା କାନ ଓ ନରମ ଲୋମ ଥିବା ଅତି ସୁନ୍ଦର ଓ ନିରୀହ ପ୍ରାଣୀ",
+    "details": {
+      "ବାସସ୍ଥାନ": "ଘାସପଡ଼ିଆ, ବୁଦାଳିଆ ଜଙ୍ଗଲ ଓ ଘର",
+      "ଖାଦ୍ୟ": "ଶାକାହାରୀ (ଘାସ, ଗାଜର, ପତ୍ର ଓ ପରିବା)",
+      "ଆୟୁଷ": "ପ୍ରାୟ ୫ରୁ ୯ ବର୍ଷ",
+      "ଓଜନ": "ପ୍ରାୟ ୧.୫ରୁ ୩ କିଲୋଗ୍ରାମ",
+      "ଶରୀରର_ରଙ୍ଗ": "ଧଳା, ବାଦାମୀ ଓ ଧୂସର",
+      "ସ୍ୱଭାବ": "ଠେକୁଆ ବହୁତ ଶାନ୍ତ, ଭୀରୁ ଓ ଚଞ୍ଚଳ ସ୍ୱଭାବର ଅଟେ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଠେକୁଆର ଲମ୍ବା କାନ ଦୂରରୁ ଶବ୍ଦ ଶୁଣିବାରେ ସାହାଯ୍ୟ କରେ ।",
+        "ଏହା ଡିଆଁ ମାରି ବହୁତ ଜୋରରେ ଦୌଡ଼ିପାରେ ।"
+      ]
+    }
+  },
+  {
+    "name": "Monkey",
+    "scientificName": "macaca mulatta",
+    "category": "ବନ୍ୟ ପଶୁ",
+    "description": "intelligent tree-climbing primate with a long tail",
+    "conservationStatus": "ସୁରକ୍ଷିତ ପ୍ରଜାତି",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/pasu/monkey.jpg",
+    "odiaName": "ମାଙ୍କଡ଼",
+    "descriptionOdia": "ଗଛ ଡାଳକୁ ଡାଳ ଡେଇଁ ବୁଲୁଥିବା ବୁଦ୍ଧିମାନ ଓ ଚଞ୍ଚଳ ପ୍ରାଣୀ",
+    "details": {
+      "ବାସସ୍ଥାନ": "ଜଙ୍ଗଲ, ମନ୍ଦିର ଓ ଜନବସତି ନିକଟବର୍ତ୍ତୀ ଗଛ",
+      "ଖାଦ୍ୟ": "ସର୍ବଭକ୍ଷୀ (ଫଳ, ପତ୍ର, ମଞ୍ଜି ଓ ପୋକ)",
+      "ଆୟୁଷ": "ପ୍ରାୟ ୧୫ରୁ ୨୫ ବର୍ଷ",
+      "ଓଜନ": "ପ୍ରାୟ ୫ରୁ ୧୦ କିଲୋଗ୍ରାମ",
+      "ଶରୀରର_ରଙ୍ଗ": "ବାଦାମୀ ଓ ଧୂସର (ମୁହଁ ଲାଲ୍-ଗୋଲାପୀ)",
+      "ସ୍ୱଭାବ": "ମାଙ୍କଡ଼ ବହୁତ ଚଞ୍ଚଳ, ବୁଦ୍ଧିମାନ ଓ ଦଳବଦ୍ଧ ହୋଇ ରହେ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ମାଙ୍କଡ଼ ମଣିଷର ଭାବଭଙ୍ଗୀକୁ ସହଜରେ ନକଲ କରିପାରେ ।",
+        "ଏହାର ଲାଞ୍ଜ ଗଛରେ ଚଢ଼ିବା ସମୟରେ ସନ୍ତୁଳନ ରକ୍ଷା କରେ ।"
+      ]
+    }
+  },
+  {
+    "name": "Langur",
+    "scientificName": "semnopithecus entellus",
+    "category": "ବନ୍ୟ ପଶୁ",
+    "description": "slender leaf-eating monkey with a black face and very long tail",
+    "conservationStatus": "ସୁରକ୍ଷିତ ପ୍ରଜାତି",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/pasu/langur.jpg",
+    "odiaName": "ହନୁ ମାଙ୍କଡ଼",
+    "descriptionOdia": "କଳା ମୁହଁ ଓ ଅତି ଲମ୍ବା ଲାଞ୍ଜ ଥିବା ଶାନ୍ତ ସ୍ୱଭାବର ମାଙ୍କଡ଼",
+    "details": {
+      "ବାସସ୍ଥାନ": "ଜଙ୍ଗଲ ଓ ଗାଁ ପାଖ ବଡ଼ ଗଛ",
+      "ଖାଦ୍ୟ": "ଶାକାହାରୀ (କଅଁଳ ପତ୍ର, ଫଳ ଓ ଫୁଲ)",
+      "ଆୟୁଷ": "ପ୍ରାୟ ୧୮ରୁ ୨୫ ବର୍ଷ",
+      "ଓଜନ": "ପ୍ରାୟ ୧୦ରୁ ୧୮ କିଲୋଗ୍ରାମ",
+      "ଶରୀରର_ରଙ୍ଗ": "ଧଳା-ଧୂସର ଦେହ ଓ କଳା ମୁହଁ",
+      "ସ୍ୱଭାବ": "ପାତି ମାଙ୍କଡ଼ ତୁଳନାରେ ହନୁ ମାଙ୍କଡ଼ ଅଧିକ ଶାନ୍ତ ସ୍ୱଭାବର ଅଟେ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ହନୁ ମାଙ୍କଡ଼ର ଲାଞ୍ଜ ତାହାର ଶରୀରଠାରୁ ମଧ୍ୟ ଲମ୍ବା ହୋଇଥାଏ ।",
+        "ଜଙ୍ଗଲରେ ବାଘ ଦେଖିଲେ ଏମାନେ ଉଚ୍ଚ ସ୍ୱରରେ ଡାକି ଅନ୍ୟ ପଶୁଙ୍କୁ ସତର୍କ କରାନ୍ତି ।"
+      ]
+    }
+  },
+  {
+    "name": "Cow",
+    "scientificName": "bos indicus",
+    "category": "ଗୃହପାଳିତ ପଶୁ",
+    "description": "gentle domesticated mammal raised for milk and farming",
+    "conservationStatus": "ଗୃହପାଳିତ ପଶୁ",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/pasu/cow.jpg",
+    "odiaName": "ଗାଈ",
+    "descriptionOdia": "ମଣିଷକୁ କ୍ଷୀର ପ୍ରଦାନ କରୁଥିବା ଅତି ଶାନ୍ତ ଓ ଉପକାରୀ ଗୃହପାଳିତ ପଶୁ",
+    "details": {
+      "ବାସସ୍ଥାନ": "ଗୁହାଳ ଓ ମାନବ ବସତି",
+      "ଖାଦ୍ୟ": "ଶାକାହାରୀ (ଘାସ, ନଡ଼ା ଓ କୁଣ୍ଡା)",
+      "ଆୟୁଷ": "ପ୍ରାୟ ୧୫ରୁ ୨୦ ବର୍ଷ",
+      "ଓଜନ": "ପ୍ରାୟ ୩୦୦ରୁ ୫୦୦ କିଲୋଗ୍ରାମ",
+      "ଶରୀରର_ରଙ୍ଗ": "ଧଳା, କଳା, ଲାଲ୍ ଓ କବରା",
+      "ସ୍ୱଭାବ": "ଗାଈ ଅତ୍ୟନ୍ତ ଶାନ୍ତ, ନିରୀହ ଓ ସ୍ନେହୀ ସ୍ୱଭାବର ପଶୁ ଅଟେ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଗାଈ କ୍ଷୀର ପିଲାମାନଙ୍କ ସ୍ୱାସ୍ଥ୍ୟ ଓ ବୃଦ୍ଧି ପାଇଁ ଅତ୍ୟନ୍ତ ପୁଷ୍ଟିକର ଅଟେ ।",
+        "ଭାରତୀୟ ସଂସ୍କୃତିରେ ଗାଈକୁ 'ଗୋମାତା' ଭାବରେ ପୂଜା କରାଯାଏ ।"
+      ]
+    }
+  },
+  {
+    "name": "Ox",
+    "scientificName": "bos taurus",
+    "category": "ଗୃହପାଳିତ ପଶୁ",
+    "description": "strong male cattle used for plowing fields and pulling carts",
+    "conservationStatus": "ଗୃହପାଳିତ ପଶୁ",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/pasu/bull-ox.jpg",
+    "odiaName": "ବଳଦ",
+    "descriptionOdia": "ଚାଷ କାମ ଓ ଶଗଡ଼ ଟାଣିବାରେ ସାହାଯ୍ୟ କରୁଥିବା ଶକ୍ତିଶାଳୀ ଗୃହପାଳିତ ପଶୁ",
+    "details": {
+      "ବାସସ୍ଥାନ": "ଗୁହାଳ ଓ ଗ୍ରାମାଞ୍ଚଳ",
+      "ଖାଦ୍ୟ": "ଶାକାହାରୀ (ଘାସ, ନଡ଼ା ଓ ଚୋକଡ଼)",
+      "ଆୟୁଷ": "ପ୍ରାୟ ୧୫ରୁ ୨୦ ବର୍ଷ",
+      "ଓଜନ": "ପ୍ରାୟ ୪୫୦ରୁ ୭୦୦ କିଲୋଗ୍ରାମ",
+      "ଶରୀରର_ରଙ୍ଗ": "ଧଳା, କଳା ଓ ବାଦାମୀ",
+      "ସ୍ୱଭାବ": "ବଳଦ ବହୁତ ପରିଶ୍ରମୀ ଏବଂ ମାଲିକଙ୍କ କଥା ମାନି କାମ କରେ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ପ୍ରାଚୀନ କାଳରୁ ଚାଷୀମାନେ ବଳଦ ଯୋଡ଼ି ସାହାଯ୍ୟରେ ଜମି ହଳ କରିଆସୁଛନ୍ତି ।",
+        "ଏହାର କାନ୍ଧ ଉପରେ ଏକ ଉଚ୍ଚା କୁଜ ଥାଏ ।"
+      ]
+    }
+  },
+  {
+    "name": "Buffalo",
+    "scientificName": "bubalus bubalis",
+    "category": "ଗୃହପାଳିତ ପଶୁ",
+    "description": "large dark-colored domestic animal valued for rich milk",
+    "conservationStatus": "ଗୃହପାଳିତ ପଶୁ",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/pasu/buffalo.jpg",
+    "odiaName": "ମଇଁଷି",
+    "descriptionOdia": "କଳା ରଙ୍ଗର ବଡ଼ ଶରୀର ଓ ବଙ୍କା ଶିଙ୍ଗ ଥିବା ଦୁଧିଆଳୀ ଗୃହପାଳିତ ପଶୁ",
+    "details": {
+      "ବାସସ୍ଥାନ": "ଗୁହାଳ ଓ ଜଳାଶୟ ନିକଟବର୍ତ୍ତୀ ଅଞ୍ଚଳ",
+      "ଖାଦ୍ୟ": "ଶାକାହାରୀ (ଘାସ, ନଡ଼ା ଓ ପତ୍ର)",
+      "ଆୟୁଷ": "ପ୍ରାୟ ୧୮ରୁ ୨୫ ବର୍ଷ",
+      "ଓଜନ": "ପ୍ରାୟ ୪୦୦ରୁ ୮୦୦ କିଲୋଗ୍ରାମ",
+      "ଶରୀରର_ରଙ୍ଗ": "ଗାଢ଼ କଳା",
+      "ସ୍ୱଭାବ": "ମଇଁଷି ଶାନ୍ତ ସ୍ୱଭାବର ଏବଂ ପାଣି ଓ କାଦୁଅରେ ବୁଡ଼ି ରହିବାକୁ ଭଲ ପାଏ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ମଇଁଷି କ୍ଷୀର ବହୁତ ବହଳିଆ ହୋଇଥାଏ ଏବଂ ଏଥିରୁ ଭଲ ଦହି ଓ ଘିଅ ତିଆରି ହୁଏ ।",
+        "ଗରମ ଦିନେ ନିଜ ଶରୀରକୁ ଥଣ୍ଡା ରଖିବା ପାଇଁ ଏହା ପୋଖରୀ ପାଣିରେ ବସିରହେ ।"
+      ]
+    }
+  },
+  {
+    "name": "Goat",
+    "scientificName": "capra hircus",
+    "category": "ଗୃହପାଳିତ ପଶୁ",
+    "description": "agile domesticated animal kept for milk and meat",
+    "conservationStatus": "ଗୃହପାଳିତ ପଶୁ",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/pasu/goat.jpg",
+    "odiaName": "ଛେଳି",
+    "descriptionOdia": "ଗଛ ପତ୍ର ଖାଇବାକୁ ଭଲ ପାଉଥିବା ଚଞ୍ଚଳ ଗୃହପାଳିତ ପଶୁ",
+    "details": {
+      "ବାସସ୍ଥାନ": "ମାନବ ବସତି ଓ ଗୁହାଳ",
+      "ଖାଦ୍ୟ": "ଶାକାହାରୀ (ଗଛ ପତ୍ର, ଘାସ ଓ ଲତା)",
+      "ଆୟୁଷ": "ପ୍ରାୟ ୧୦ରୁ ୧୫ ବର୍ଷ",
+      "ଓଜନ": "ପ୍ରାୟ ୨୫ରୁ ୫୦ କିଲୋଗ୍ରାମ",
+      "ଶରୀରର_ରଙ୍ଗ": "କଳା, ଧଳା ଓ ବାଦାମୀ",
+      "ସ୍ୱଭାବ": "ଛେଳି ବହୁତ ଚଞ୍ଚଳ ଏବଂ ଠିଆ ହୋଇ ଗଛର ପତ୍ର ଖାଇବାକୁ ପସନ୍ଦ କରେ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଛେଳି କ୍ଷୀର ଅତ୍ୟନ୍ତ ହାଲୁକା ଓ ସହଜରେ ହଜମ ହୋଇଥାଏ ।",
+        "ଏହା ପାହାଡ଼ିଆ ଓ ଅସମତଳ ସ୍ଥାନରେ ସହଜରେ ଚଢ଼ିପାରେ ।"
+      ]
+    }
+  },
+  {
+    "name": "Sheep",
+    "scientificName": "ovis aries",
+    "category": "ଗୃହପାଳିତ ପଶୁ",
+    "description": "woolly domesticated animal raised for fleece and wool",
+    "conservationStatus": "ଗୃହପାଳିତ ପଶୁ",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/pasu/sheep.jpg",
+    "odiaName": "ମେଣ୍ଢା",
+    "descriptionOdia": "ଶରୀରରେ ଘଞ୍ଚ ପଶମ ଥିବା ଶାନ୍ତ ସ୍ୱଭାବର ଗୃହପାଳିତ ପଶୁ",
+    "details": {
+      "ବାସସ୍ଥାନ": "ମାନବ ବସତି ଓ ତୃଣଭୂମି",
+      "ଖାଦ୍ୟ": "ଶାକାହାରୀ (ଘାସ ଓ ଛୋଟ ଗଛର ପତ୍ର)",
+      "ଆୟୁଷ": "ପ୍ରାୟ ୧୦ରୁ ୧୨ ବର୍ଷ",
+      "ଓଜନ": "ପ୍ରାୟ ୩୫ରୁ ୭୦ କିଲୋଗ୍ରାମ",
+      "ଶରୀରର_ରଙ୍ଗ": "ଧଳା, ବାଦାମୀ ଓ କଳା",
+      "ସ୍ୱଭାବ": "ମେଣ୍ଢା ସର୍ବଦା ଦଳ ହୋଇ ଏକାଠି ଚରିବାକୁ ଭଲ ପାଏ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ମେଣ୍ଢାର ଲୋମରୁ ଉଲ୍ (ପଶମ) ତିଆରି ହୁଏ, ଯାହା ଶୀତଦିନିଆ ପୋଷାକ ବନାଇବାରେ ଲାଗେ ।",
+        "ଏହା ଅତ୍ୟନ୍ତ ନିରୀହ ଓ ଶାନ୍ତ ପ୍ରାଣୀ ଅଟେ ।"
+      ]
+    }
+  },
+  {
+    "name": "Horse",
+    "scientificName": "equus caballus",
+    "category": "ଗୃହପାଳିତ ପଶୁ",
+    "description": "fast and strong domesticated animal used for riding and transport",
+    "conservationStatus": "ଗୃହପାଳିତ ପଶୁ",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/pasu/horse.jpg",
+    "odiaName": "ଘୋଡ଼ା",
+    "descriptionOdia": "ଦ୍ରୁତଗାମୀ, ଶକ୍ତିଶାଳୀ ଓ ବିଶ୍ୱସ୍ତ ଗୃହପାଳିତ ପଶୁ",
+    "details": {
+      "ବାସସ୍ଥାନ": "ଅସ୍ତବଳ ଓ ଖୋଲା ପଡ଼ିଆ",
+      "ଖାଦ୍ୟ": "ଶାକାହାରୀ (ଘାସ, ଚଣା ଓ ଶସ୍ୟ)",
+      "ଆୟୁଷ": "ପ୍ରାୟ ୨୫ରୁ ୩୦ ବର୍ଷ",
+      "ଓଜନ": "ପ୍ରାୟ ୩୮୦ରୁ ୫୫୦ କିଲୋଗ୍ରାମ",
+      "ଶରୀରର_ରଙ୍ଗ": "ବାଦାମୀ, ଧଳା ଓ କଳା",
+      "ସ୍ୱଭାବ": "ଘୋଡ଼ା ବହୁତ ବୁଦ୍ଧିମାନ, ସାହସୀ ଓ ଦ୍ରୁତଗାମୀ ଅଟେ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ପ୍ରାଚୀନ କାଳରେ ଯାତାୟାତ ଓ ଯୁଦ୍ଧ କ୍ଷେତ୍ରରେ ଘୋଡ଼ାର ବହୁଳ ବ୍ୟବହାର ହେଉଥିଲା ।",
+        "ଘୋଡ଼ା ଠିଆ ହୋଇ ମଧ୍ୟ ଶୋଇପାରେ ।"
+      ]
+    }
+  },
+  {
+    "name": "Donkey",
+    "scientificName": "equus asinus",
+    "category": "ଗୃହପାଳିତ ପଶୁ",
+    "description": "hardworking domesticated animal known for carrying heavy loads",
+    "conservationStatus": "ଗୃହପାଳିତ ପଶୁ",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/pasu/donkey.jpg",
+    "odiaName": "ଗଧ",
+    "descriptionOdia": "ଭାରୀ ଜିନିଷ ବୋହିବାରେ ସାହାଯ୍ୟ କରୁଥିବା ପରିଶ୍ରମୀ ଗୃହପାଳିତ ପଶୁ",
+    "details": {
+      "ବାସସ୍ଥାନ": "ମାନବ ବସତି",
+      "ଖାଦ୍ୟ": "ଶାକାହାରୀ (ଘାସ, ନଡ଼ା ଓ ଶୁଖିଲା ପତ୍ର)",
+      "ଆୟୁଷ": "ପ୍ରାୟ ୨୫ରୁ ୩୦ ବର୍ଷ",
+      "ଓଜନ": "ପ୍ରାୟ ୧୮୦ରୁ ୨୫୦ କିଲୋଗ୍ରାମ",
+      "ଶରୀରର_ରଙ୍ଗ": "ଧୂସର ଓ ବାଦାମୀ",
+      "ସ୍ୱଭାବ": "ଗଧ ଅତ୍ୟନ୍ତ ପରିଶ୍ରମୀ ଏବଂ ପାହାଡ଼ିଆ ଅଣଓସାରିଆ ରାସ୍ତାରେ ମଧ୍ୟ ଭାର ବୋହି ଚାଲିପାରେ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଗଧର କାନ ବହୁତ ଲମ୍ବା ହୋଇଥାଏ, ଯାହା ଶବ୍ଦ ଶୁଣିବା ଓ ଶରୀରକୁ ଥଣ୍ଡା ରଖିବାରେ ସାହାଯ୍ୟ କରେ ।",
+        "ଏହା ଘୋଡ଼ା ଅପେକ୍ଷା ଆକାରରେ ଛୋଟ କିନ୍ତୁ ବହୁତ ଧୈର୍ଯ୍ୟଶୀଳ ।"
+      ]
+    }
+  },
+  {
+    "name": "Camel",
+    "scientificName": "camelus dromedarius",
+    "category": "ଗୃହପାଳିତ ପଶୁ",
+    "description": "desert-adapted animal with a hump known as the ship of the desert",
+    "conservationStatus": "ଗୃହପାଳିତ ପଶୁ",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/pasu/camel.jpg",
+    "odiaName": "ଓଟ",
+    "descriptionOdia": "ମରୁଭୂମିର ଜାହାଜ ଭାବରେ ପରିଚିତ ଲମ୍ବା ବେକ ଓ କୁଜ ଥିବା ପଶୁ",
+    "details": {
+      "ବାସସ୍ଥାନ": "ମରୁଭୂମି ଅଞ୍ଚଳ",
+      "ଖାଦ୍ୟ": "ଶାକାହାରୀ (କଣ୍ଟାଳିଆ ବୁଦା, ଘାସ ଓ ପତ୍ର)",
+      "ଆୟୁଷ": "ପ୍ରାୟ ୪୦ରୁ ୫୦ ବର୍ଷ",
+      "ଓଜନ": "ପ୍ରାୟ ୪୦୦ରୁ ୬୦୦ କିଲୋଗ୍ରାମ",
+      "ଶରୀରର_ରଙ୍ଗ": "ହାଲୁକା ବାଦାମୀ",
+      "ସ୍ୱଭାବ": "ଓଟ ବିନା ପାଣିରେ ଅନେକ ଦିନ ପର୍ଯ୍ୟନ୍ତ ମରୁଭୂମିରେ ରହିପାରେ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଓଟକୁ 'ମରୁଭୂମିର ଜାହାଜ' କୁହାଯାଏ ।",
+        "ଓଟର ପିଠିରେ ଥିବା କୁଜରେ ଚର୍ବି ଜମା ହୋଇ ରହିଥାଏ, ଯାହା ତାକୁ ଶକ୍ତି ଦିଏ ।"
+      ]
+    }
+  },
+  {
+    "name": "Dog",
+    "scientificName": "canis familiaris",
+    "category": "ଗୃହପାଳିତ ପଶୁ",
+    "description": "humanity's oldest and most loyal animal companion",
+    "conservationStatus": "ଗୃହପାଳିତ ପଶୁ",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/pasu/dog.jpg",
+    "odiaName": "କୁକୁର",
+    "descriptionOdia": "ମଣିଷର ସବୁଠାରୁ ବିଶ୍ୱସ୍ତ ଓ ପ୍ରିୟ ଗୃହପାଳିତ ପଶୁ",
+    "details": {
+      "ବାସସ୍ଥାନ": "ମାନବ ବସତି",
+      "ଖାଦ୍ୟ": "ସର୍ବଭକ୍ଷୀ",
+      "ଆୟୁଷ": "ପ୍ରାୟ ୧୦ରୁ ୧୩ ବର୍ଷ",
+      "ଓଜନ": "ପ୍ରାୟ ୧୫ରୁ ୩୦ କିଲୋଗ୍ରାମ",
+      "ଶରୀରର_ରଙ୍ଗ": "ବିଭିନ୍ନ ରଙ୍ଗ (ଧଳା, କଳା, ବାଦାମୀ)",
+      "ସ୍ୱଭାବ": "କୁକୁର ଅତ୍ୟନ୍ତ ବିଶ୍ୱସ୍ତ, ବୁଦ୍ଧିମାନ ଓ ମାଲିକଙ୍କ ଘର ଜଗି ରହେ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "କୁକୁରର ଘ୍ରାଣ ଶକ୍ତି (ଶୁଙ୍ଘିବା ଶକ୍ତି) ବହୁତ ପ୍ରଖର ଅଟେ ।",
+        "ଏହା ମାନବ ଜାତିର ସବୁଠାରୁ ପୁରୁଣା ଗୃହପାଳିତ ପଶୁ ।"
+      ]
+    }
+  },
+  {
+    "name": "Cat",
+    "scientificName": "felis catus",
+    "category": "ଗୃହପାଳିତ ପଶୁ",
+    "description": "small soft-furred domestic animal skilled at catching mice",
+    "conservationStatus": "ଗୃହପାଳିତ ପଶୁ",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/pasu/cat.jpg",
+    "odiaName": "ବିରାଡ଼ି",
+    "descriptionOdia": "ନରମ ଲୋମ ଓ ଚମକୁଥିବା ଆଖି ଥିବା ଛୋଟ ଗୃହପାଳିତ ପଶୁ",
+    "details": {
+      "ବାସସ୍ଥାନ": "ମାନବ ବସତି",
+      "ଖାଦ୍ୟ": "ସର୍ବଭକ୍ଷୀ (କ୍ଷୀର, ମାଛ ଓ ମୂଷା)",
+      "ଆୟୁଷ": "ପ୍ରାୟ ୧୨ରୁ ୧୮ ବର୍ଷ",
+      "ଓଜନ": "ପ୍ରାୟ ୩ରୁ ୫ କିଲୋଗ୍ରାମ",
+      "ଶରୀରର_ରଙ୍ଗ": "ଧଳା, କଳା, ଧୂସର ଓ କବରା",
+      "ସ୍ୱଭାବ": "ବିରାଡ଼ି ବହୁତ ସଫାସୁତୁରା ରହିବାକୁ ପସନ୍ଦ କରେ ଏବଂ ରାତିରେ ଭଲ ଦେଖିପାରେ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ବିରାଡ଼ି ଘରର ମୂଷାମାନଙ୍କୁ ଧରି ଘର ସୁରକ୍ଷିତ ରଖେ ।",
+        "ଉଚ୍ଚ ସ୍ଥାନରୁ ଡେଇଁଲେ ମଧ୍ୟ ବିରାଡ଼ି ନିଜ ଚାରି ପାଦରେ ଠିକ୍ ଭାବରେ ଓହ୍ଲାଇପାରେ ।"
+      ]
+    }
+  },
+  {
+    "name": "Pig",
+    "scientificName": "sus domesticus",
+    "category": "ଗୃହପାଳିତ ପଶୁ",
+    "description": "intelligent stout-bodied domestic animal with a flat snout",
+    "conservationStatus": "ଗୃହପାଳିତ ପଶୁ",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/pasu/pig.jpg",
+    "odiaName": "ଘୁଷୁରି",
+    "descriptionOdia": "ଚେପଟା ଥୋମଣି ଓ ମୋଟା ଶରୀର ଥିବା ଗୃହପାଳିତ ପଶୁ",
+    "details": {
+      "ବାସସ୍ଥାନ": "ମାନବ ବସତି ଓ ଗୁହାଳ",
+      "ଖାଦ୍ୟ": "ସର୍ବଭକ୍ଷୀ (କନ୍ଦମୂଳ, ଶସ୍ୟ, ପରିବା ଓ ପୋକ)",
+      "ଆୟୁଷ": "ପ୍ରାୟ ୧୦ରୁ ୧୫ ବର୍ଷ",
+      "ଓଜନ": "ପ୍ରାୟ ୬୦ରୁ ୧୫୦ କିଲୋଗ୍ରାମ",
+      "ଶରୀରର_ରଙ୍ଗ": "କଳା, ଧଳା ଓ ଗୋଲାପୀ",
+      "ସ୍ୱଭାବ": "ଘୁଷୁରି ବହୁତ ବୁଦ୍ଧିମାନ ଏବଂ ଗରମରୁ ରକ୍ଷା ପାଇବା ପାଇଁ କାଦୁଅରେ ଗଡ଼େ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଘୁଷୁରିର ଶୁଙ୍ଘିବା ଶକ୍ତି ବହୁତ ପ୍ରଖର ହୋଇଥାଏ ।",
+        "ଶରୀରରେ ଝାଳ ଗ୍ରନ୍ଥି ନଥିବାରୁ ଏହା ନିଜକୁ ଥଣ୍ଡା ରଖିବା ପାଇଁ ପାଣି ବା କାଦୁଅରେ ବସେ ।"
+      ]
+    }
+  },
+  {
+    "name": "Squirrel",
+    "scientificName": "funambulus palmarum",
+    "category": "ଗୃହପାଳିତ ପଶୁ",
+    "description": "small nimble rodent with three stripes on its back and a bushy tail",
+    "conservationStatus": "ସୁରକ୍ଷିତ ପ୍ରଜାତି",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/pasu/squirrel.jpg",
+    "odiaName": "ଗୁଣ୍ଡୁଚି ମୂଷା",
+    "descriptionOdia": "ପିଠିରେ ତିନୋଟି ଗାର ଓ ଲୋମଯୁକ୍ତ ଲାଞ୍ଜ ଥିବା ଚଞ୍ଚଳ ଛୋଟ ପ୍ରାଣୀ",
+    "details": {
+      "ବାସସ୍ଥାନ": "ଗଛ କୋରଡ଼ ଓ ବଗିଚା",
+      "ଖାଦ୍ୟ": "ଶାକାହାରୀ (ଫଳ, ମଞ୍ଜି, ବାଦାମ ଓ କଅଁଳ ପତ୍ର)",
+      "ଆୟୁଷ": "ପ୍ରାୟ ୪ରୁ ୬ ବର୍ଷ",
+      "ଓଜନ": "ପ୍ରାୟ ୧୦୦ରୁ ୧୫୦ ଗ୍ରାମ୍",
+      "ଶରୀରର_ରଙ୍ଗ": "ଧୂସର-ବାଦାମୀ ଦେହରେ ତିନୋଟି ଧଳା ଗାର",
+      "ସ୍ୱଭାବ": "ଗୁଣ୍ଡୁଚି ମୂଷା ସବୁବେଳେ ଗଛ ଉପରତଳ ହୋଇ ଦୌଡ଼ି ବୁଲୁଥାଏ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ଭାରତୀୟ ଗୁଣ୍ଡୁଚି ମୂଷାର ପିଠିରେ ତିନୋଟି ସ୍ପଷ୍ଟ ଧଳା ଗାର ଦେଖାଯାଏ ।",
+        "ଏହା ନିଜ ଆଗ ଦୁଇ ଗୋଡ଼ରେ ଫଳ ଓ ମଞ୍ଜି ଧରି ଖାଏ ।"
+      ]
+    }
+  },
+  {
+    "name": "Rat / Mouse",
+    "scientificName": "rattus rattus",
+    "category": "ଗୃହପାଳିତ ପଶୁ",
+    "description": "small gnawing rodent with a long tail and sharp front teeth",
+    "conservationStatus": "ସୁରକ୍ଷିତ ପ୍ରଜାତି",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/pasu/rat-mouse.jpg",
+    "odiaName": "ମୂଷା",
+    "descriptionOdia": "ତୀକ୍ଷ୍ଣ ଦାନ୍ତ ଓ ଲମ୍ବା ଲାଞ୍ଜ ଥିବା ଛୋଟ ପ୍ରାଣୀ",
+    "details": {
+      "ବାସସ୍ଥାନ": "ଘରର ଗାତ, ବିଲ ଓ ଗୋଦାମ",
+      "ଖାଦ୍ୟ": "ସର୍ବଭକ୍ଷୀ (ଶସ୍ୟ, ଫଳ ଓ ଖାଦ୍ୟ ପଦାର୍ଥ)",
+      "ଆୟୁଷ": "ପ୍ରାୟ ୨ରୁ ୩ ବର୍ଷ",
+      "ଓଜନ": "ପ୍ରାୟ ୧୫୦ରୁ ୩୦୦ ଗ୍ରାମ୍",
+      "ଶରୀରର_ରଙ୍ଗ": "ଧୂସର, କଳା ଓ ଧଳା",
+      "ସ୍ୱଭାବ": "ମୂଷା ବହୁତ ଚଞ୍ଚଳ ଏବଂ ରାତିରେ ଖାଦ୍ୟ ଖୋଜିବାକୁ ବାହାରେ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ମୂଷାର ଆଗ ଦାନ୍ତ ସାରା ଜୀବନ ବଢ଼ିଥାଏ, ତେଣୁ ସେମାନେ ସବୁବେଳେ କିଛି ନା କିଛି କାଟିଥାନ୍ତି ।",
+        "ଏହା ମାଟି ତଳେ ଲମ୍ବା ଗାତ ଖୋଳି ବସବାସ କରେ ।"
+      ]
+    }
+  },
+  {
+    "name": "Bat",
+    "scientificName": "pteropus giganteus",
+    "category": "ବନ୍ୟ ପଶୁ",
+    "description": "the only mammal capable of true sustained flight, active at night",
+    "conservationStatus": "ସୁରକ୍ଷିତ ପ୍ରଜାତି",
+    "image": "https://imsbg.github.io/asa-janiba-data/images/pasu/bat.jpg",
+    "odiaName": "ବାଦୁଡ଼ି",
+    "descriptionOdia": "ଆକାଶରେ ଉଡ଼ିପାରୁଥିବା ଏକମାତ୍ର ନିଶାଚର ସ୍ତନ୍ୟପାୟୀ ପ୍ରାଣୀ",
+    "details": {
+      "ବାସସ୍ଥାନ": "ବଡ଼ ଗଛ ଡାଳ ଓ ଅନ୍ଧାରିଆ ଗୁମ୍ଫା",
+      "ଖାଦ୍ୟ": "ଶାକାହାରୀ (ପାଚିଲା ଫଳ ଓ ଫୁଲର ମହୁ)",
+      "ଆୟୁଷ": "ପ୍ରାୟ ୧୫ରୁ ୨୦ ବର୍ଷ",
+      "ଓଜନ": "ପ୍ରାୟ ୬୦୦ ଗ୍ରାମ୍ ରୁ ୧.୨ କିଲୋଗ୍ରାମ",
+      "ଶରୀରର_ରଙ୍ଗ": "କଳା ଓ ଗାଢ଼ ବାଦାମୀ",
+      "ସ୍ୱଭାବ": "ବାଦୁଡ଼ି ଦିନରେ ଗଛ ଡାଳରେ ଓଲଟା ଝୁଲି ଶୁଏ ଏବଂ ରାତିରେ ଖାଦ୍ୟ ଖୋଜେ ।",
+      "ବିଶେଷ_ତଥ୍ୟ": [
+        "ପକ୍ଷୀ ଭଳି ଉଡ଼ିପାରୁଥିଲେ ମଧ୍ୟ ବାଦୁଡ଼ି ଏକ ସ୍ତନ୍ୟପାୟୀ ପଶୁ ଅଟେ ।",
+        "ଏହା ପରାଗସଙ୍ଗମ ଓ ଗଛର ମଞ୍ଜି ବିସ୍ତାର କରିବାରେ ବହୁତ ସାହାଯ୍ୟ କରେ ।"
+      ]
+    }
+  }
+]
